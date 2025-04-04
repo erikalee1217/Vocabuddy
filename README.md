@@ -23,6 +23,26 @@ To set up the project locally:
    ```bash
    git clone https://github.com/erikalee1217/Vocabuddy.git
    ```
+2. **Navigate to the project directory:**
+    
+    ```bash
+   cd Vocabuddy
+   ```
+3. **Backend setup:**
+    
+    ```bash
+    cd backend
+    npm install
+    npm start
+    ```
+4. **Frontend setup:**
+    
+    ```bash
+    cd ../frontend
+    npm install
+    npm start
+   ```
+The application will be running at http://localhost:3000
 
 ## Tech Stack
 
