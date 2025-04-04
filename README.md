@@ -1,16 +1,46 @@
-# team080-noGPTused
-This is a template for CS411 project repository. Please make sure that your title follows the convention: [TeamID]-[YourTeamName]. All TeamIDs should have a three-digit coding (i.e. if you are team 20, you should have `team020` as your ID.). You should also ensure that your URL for this repository is [sp24-cs411-team000-teamname.git] so TAs can correctly clone your repository and keep it up-to-date.
+# Vocabuddy
 
-Once you set up your project, please remember to submit your team formation to the team form.
+## Overview
 
-## Permission
-Make your repository private. TAs will be able to access it even if it's private.
+**Vocabuddy** is a web-based application designed to support learners preparing for standardized tests like the 
+**TOEFL** and **GRE**, with a focus on mastering the extensive vocabulary required for these exams.
 
-## Preparing for your release
-Each submission should be in its own [release](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases). Release are specific freezes to your repository. You should submit your commit hash on PrairieLearn. When tagging your stage, please use the tag `stage.x` where x is the number to represent the stage.
+Beyond basic dictionary functions, the platform allows users to set **test-specific goals** and engage in **interactive 
+exercises and quizzes** tailored to their needs. Learners can customize their study plans and track progress through 
+**real-time visual feedback**, gaining a clear sense of how well they're mastering key vocabulary.
 
-## Keeping things up-to-date
-Please make sure you keep your project root files up-to-date. Information for each file/folder are explained.
+To make studying more engaging, Vocabuddy fosters a **collaborative learning environment**, where users can connect, 
+share progress, and challenge each other through vocabulary quizzes. Leveraging search algorithms and study history, 
+the platform also provides **personalized vocabulary recommendations**, helping users focus on the most relevant and 
+impactful words.
 
-## Code Contribution
-Individual code contributions will be used to evaluate individual contributions to the project.
+## Installation
+
+To set up the project locally:
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/erikalee1217/Vocabuddy.git
+   ```
+
+## Tech Stack
+
+- Frontend: React, TypeScript
+- Backend: Node.js, Express
+- Database: MySQL
+- Data Processing: Python
+- Deployment: Google Cloud Platform (GCP)
+
+## Team Information
+
+| Role    | Name                  | Email                 |
+|---------|-----------------------|-----------------------|
+| Captain | Jack Chen             | zihengc2@illinois.edu |
+| Member1 | Erika Lee             | ihsuanl2@illinois.edu |
+| Member2 | Joanne Chou           | yenchou2@illinois.edu |
+
+## Personal Contributions
+- Designed and implemented the MySQL database schema for vocabulary storage and tracking
+- Developed RESTful backend APIs using Node.js and Express for quiz and user progress features
+- Contributed to data parsing scripts using Python to clean and import GRE/TOEFL word lists
