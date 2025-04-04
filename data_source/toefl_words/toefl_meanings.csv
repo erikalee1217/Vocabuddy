@@ -1,0 +1,1070 @@
+WordId,TestId,PartOfSpeech,Description,Example,Source
+0,3,noun,a topic or situation to talk about a problem,"In order to define what jazz music is, we need to look at a few different issues. Monarchies (governments with kings or queens) often have several common issues.",Magoosh
+1,3,verb,to make small changes or add to,"The first bicycles were slow and difficult to use, but they were modified over time.",Magoosh
+2,3,verb,"to build, to create (a system, organization, or idea)",The U.S. government was established in the late 1700s.,Magoosh
+3,3,noun,an abstract idea,Some concepts within advanced mathematics are hard to show in the real world.,Magoosh
+4,3,adjective,"looking at or including all pieces or factors in general, for the most part","Some words might be new and difficult, but the overall meaning of the sentence is clear. Overall, Americans eat a lot of beef, especially compared to people in other countries.",Magoosh
+5,3,verb,to look closely at and figure out the value or type of something,"Before buying a house, you should always assess the building carefully.",Magoosh
+6,3,conjunction,although (used to contrast two different things),Lemons are very sour whereas most fruits are sweet.,Magoosh
+7,3,verb,to say something will happen in the future,"Charlie Chaplin predicted that movies would never become popular. He was wrong, clearly.",Magoosh
+8,3,verb,to change or move a little and make better or more accurate,The colors on this TV screen are wrong. I'll adjust them.,Magoosh
+9,3,verb,to move closer to something or someone a way to do something,"The sign at the park said clearly, ""Do not approach wild animals! They will bite."" The new CEO had a very strange approach to management, letting his employees sleep whenever they wanted.",Magoosh
+10,3,verb,to be clearly different from to look specifically at the differences between two things,"The zebra's black and white stripes contrast clearly with the yellow grass around it. By contrasting the vocabulary of French and Spanish, we can see their different histories.",Magoosh
+11,3,noun,"how to do something, a process",The Spanish method of making chocolate created a completely new drink.,Magoosh
+12,3,noun,"an example, a case",Two animals in Australia (platypuses and echidnas) are the only instances of animals with hair that lay eggs.,Magoosh
+13,3,verb,to take out and put something else in the same place (usually something worse) something that goes in the place of the normal thing,"Because we didn't have any, we substituted the sugar with juice. Many smokers who try to quit use chewing gum as a substitute for cigarettes.",Magoosh
+14,3,adjective,"basic, central extremely important",Alice believes that women are fundamentally different from men. The fundamental beliefs of most religions are peaceful.,Magoosh
+15,3,adjective,good enough for what is needed,A very light jacket will be adequate for Los Angeles's warm winter.,Magoosh
+16,3,noun,"the information or situation around an idea, event, or something that is said","When you have difficulty understanding a new word, look at the context. The sentence around the word might tell the meaning.",Magoosh
+17,3,verb,"to place extra importance on one part extra importance placed on one part pressure, strain, tension; worry","If you stress the wrong words or sounds when speaking English, you may not be understood. I believe we should place greater stress on improving education. Final exams are soon, so stress levels are high among students.",Magoosh
+18,3,adjective,enough in amount for what is needed,"Because of weather changes, farms couldn't grow sufficient rice to feed the country last year.",Magoosh
+19,3,verb,to eat to use up (a resource) ,"Yeast, which is used to make beer, consumes sugars to create alcohol. No country consumes more oil than the U.S.A. does.",Magoosh
+20,3,verb,to put your name or other information in a list for something to identify and show on a tool for measuring,"If you'd like to buy a meal plan, you can register at the student affairs office. The bomb was so strong that far-away weather balloons registered the heat.",Magoosh
+21,3,adverb,"however, regardless","The decision was dangerous. Nevertheless, Hitler attacked Russia.",Magoosh
+22,3,noun,an online toefl prep product used by thousands of students. learn more at toefl.magoosh.com,"After using Magoosh, Arjun improved his TOEFL score by 8 points.",Magoosh
+23,3,verb,to choose chosen as the best from a group,"There are four different math courses you may select from in your first year. Harvard students are a select group of very intelligent, successful students who are often from rich families.",Magoosh
+24,3,adverb,"therefore, so, as a result","The evidence is false; hence, the conclusion is also false.",Magoosh
+25,3,adjective,"short (about time, not length)","Before we begin class, let me briefly introduce myself.",Magoosh
+26,3,adjective,"correct (about information, not opinions); on target",That test is not an accurate test of intelligence.,Magoosh
+27,3,noun,an idea or belief about how something works,There are many theories about why we dream.,Magoosh
+28,3,verb,"to name, to show or figure out what something is",Scientists have not been able to identify the language written on the rocks.,Magoosh
+29,3,noun,"an important characteristic, a property to include as an important piece","The sound made by ""r"" is one of the most difficult features of spoken English. The university's new student housing features larger rooms than the old building did.",Magoosh
+30,3,noun,"a plan or task to reach a specific goal to predict the measurement of something in the future from present measurements to send out, to throw (light, energy, images)","Cleaning out the storage room was a big project, but it's nice to see it empty, now. Based on this year's success, Apple is projecting similar growth next year, too. Hoping to communicate with aliens, scientists have been projecting radio messages into space for many years.",Magoosh
+31,3,preposition,even with (when an event is surprising because of some difficulty),We enjoyed our vacation despite the rain.,Magoosh
+32,3,adverb,"also, in addition","Kenya has beautiful weather and, furthermore, does not have long nights in the winter.",Magoosh
+33,3,adjective,not changing and not stopping; continuous,The river flows constantly through the year and never freezes.,Magoosh
+34,3,noun,an idea which explains something but is unproven,The hypothesis that the Earth is growing was shown to be false.,Magoosh
+35,3,adjective,able to do,"Near the age of twelve months, children are capable of walking.",Magoosh
+36,3,verb,to try to understand something better by closely looking at its details,The accountant was too busy with paperwork to analyze the report that said the company had no money.,Magoosh
+37,3,adjective,important or big enough that you should notice or pay attention,Most animals spend a significant amount of their time looking for food.,Magoosh
+38,3,verb,"to work; to do what something should do what something does, its purpose","I dropped my phone into a swimming pool, but it still functions, amazingly. The hair on the human head has no clear function.",Magoosh
+39,3,verb,"to limit, to make some actions impossible",This parking area is restricted: only university students may use it.,Magoosh
+40,3,verb,"to include, to have as a part",The study of architecture involves both art and science.,Magoosh
+41,3,verb,"to be a sign of, to show",The way you speak and act indicates your emotions.,Magoosh
+42,3,verb,to place extra importance on one part,"Most modern art emphasizes creativity and emotion, not skill.",Magoosh
+43,3,verb,to try to find answers to questions about something; to research,Doctors are investigating a newly discovered plant that might help to fight cancer.,Magoosh
+44,3,verb,"to show an example of, to prove with evidence","At eight years old, Mozart demonstrated his musical ability in London.",Magoosh
+45,3,verb,the direction or way in which something is changing,Today's computer culture is trending toward more touch-screen technology.,Magoosh
+46,3,noun,a long speech about one topic that teaches (especially in a classroom) to give a long speech about a topic when trying to teach,"Professor Jackson's lectures are too long; I always fall asleep. When I was in high school, my father often lectured me on the dangers of alcohol.",Magoosh
+47,3,noun,"information, facts",We collect data on the oceans' temperatures every year.,Magoosh
+48,3,verb,to believe without proof,"Ahmed assumed his forgetful professor wouldn't remember their meeting, but the professor was already waiting for him in her office.",Magoosh
+49,3,verb,to explain with an example or picture,Peter illustrated his point by telling a short story.,Magoosh
+50,3,verb,to need for a specific purpose; to set as the minimum,"All life, plants and animals included, requires water.",Magoosh
+51,3,verb,to respond; to act in answer to,"Mothers react quickly to their babies' cries, even in the middle of the night.",Magoosh
+52,3,adjective,complicated; having many different parts and difficult to understand,"The science behind the atomic bomb used in World War II was highly complex at the time, but it is simple compared to today's nuclear science.",Magoosh
+53,3,noun,"an observation, note, or response to say a short response or opinion about a given topic","The professor was angry about the negative comments made about his teaching style. A smart politician, the prime minister refused to comment on the criticisms of her newest budget plan.",Magoosh
+54,3,verb,to finally do something you have been trying hard to do,"The best students know that to achieve good grades, they have to study every day.",Magoosh
+55,3,verb,to join or take part (in an activity),The teacher was surprised when every student participated in the math game.,Magoosh
+56,3,verb,to make larger; to give more detail on a subject,"Blowing air into a balloon will cause it to expand, but if you blow too much air, it will explode!",Magoosh
+57,3,adjective,easily understood or seen,The results of the election were so obvious that the loser admitted defeat before voting was finished.,Magoosh
+58,3,verb,to make as big as possible; to use or do as completely as possible,"In order to maximize the number of people that can fit on the plane, the airline took out the restrooms.",Magoosh
+59,3,verb,to answer to react,"Waiters who respond to customers' questions with a smile generally get more money. If you scare a turtle, it will respond by hiding in its shell.",Magoosh
+60,3,verb,to get (especially when you will continue to get more),"Janice isn't a doctor yet, but from her studies she is slowly acquiring the knowledge and skills she'll need.",Magoosh
+61,3,verb,to change; to make different; to have an effect,Which language we speak affects how we think about the world.,Magoosh
+62,3,noun,a range or amount of time,Computer technology changed a lot in the period between 1980 and 2000.,Magoosh
+63,3,noun,something difficult to suggest a fight or argument; to disagree or try to fight somebody to say something isn't true,"New medicines face many challenges before they can be put in stores. In order to get the attention of females, males of many animal species will challenge each other in different ways. Einstein's writings challenged many ideas of the time.",Magoosh
+64,3,adjective,"able to be reached, used, or bought","The advisor was not available to meet all day Monday, so the student had to come back on Tuesday.",Magoosh
+65,3,verb,to happen,"The sinking of the Titanic occurred on the night of April 14, 1912.",Magoosh
+66,3,verb,to help or aid,"The box was too big to carry, so John asked the store manager to assist him.",Magoosh
+67,3,verb,to pass from one person or thing to another,Sally transferred all of her money from American National Bank when she heard they were closing.,Magoosh
+68,3,noun,result; effect; what happens because of an event,"If you hurt the people around you, there will be unwanted consequences.",Magoosh
+69,3,adjective,clearly seen or understood; obvious,Dogs' feelings are usually evident in their actions.,Magoosh
+70,3,noun,the ability to go into (when somebody or something must allow you to enter) to go into; to reach (when able to or allowed to enter),"Only students have access to the university library. There is a large amount of oil under the ice, but we can't access it.",Magoosh
+71,3,adjective,closely connected to the topic and therefore important,I think Professor McGarry can give you some relevant books to help you write that essay.,Magoosh
+72,3,verb,to organize and manage (an event that takes careful planning and control),My research team is conducting a study on how the internet is changing dating in five countries.,Magoosh
+73,3,noun,one of a number of pieces which come together to create a whole,"Every ant's body has three sections: a head, a thorax (where the legs are), and an abdomen (the back).",Magoosh
+74,3,verb,to say which one or clearly point to which one,The king told the hero that he could marry one of the princesses but did not specify which one.,Magoosh
+75,3,noun,an area of land,"Although most of the Japanese exchange students come from Osaka, in the south, Akiko comes from Sapporo, in the northern region of Japan.",Magoosh
+76,3,adjective,"happening before the one happening now (of a thing, event, or date)",Soojin thought her science class was really hard after studying only literature in the previous year.,Magoosh
+77,3,adjective,of the mind,Many mental problems are still not well understood. We often don't know what causes them nor how to stop them from happening.,Magoosh
+78,3,adjective,not very important; small in size,The old actress was sad she had only a minor role in the new movie.,Magoosh
+79,3,noun,where something comes from,Do not trust books that give information without listed sources. The facts could be false.,Magoosh
+80,3,noun,the situation; facts or environment around an event,My professor only gives extra time to finish essays under special circumstances. Normally it's not allowed.,Magoosh
+81,3,verb,to find or search for more information about something information collected about something (usually academic),"After growing up on an island, Malika hoped to research ocean temperatures in graduate school. Dr. Stanislaus was famous for his research on changes in health education over the past 100 years.",Magoosh
+82,3,verb,to say no to something offered; to refuse or decline,"After applying to ten schools, Lucas was rejected by nine of them.",Magoosh
+83,3,verb,to agree; to decide; to solve a problem or argument,"Even after meeting for hours, the government leaders still could not resolve their argument over new taxes.",Magoosh
+84,3,verb,to take away or take out,The grocery store removed all of the milk after the government said it was unsafe to drink.,Magoosh
+85,3,verb,to continue to keep alive; to keep in good state or condition to continue to say although people disagree,"China has maintained a friendship with the U.S., although the two countries often have different needs and ideas. These roads are so badly maintained that they're difficult to drive on. Until his death, Christopher Columbus maintained that he had sailed to Asia, not America.",Magoosh
+86,3,verb,to build,"The land flooded every year, so it was unsafe to construct buildings on it.",Magoosh
+87,3,verb,to communicate without saying specifically; to lead to (a conclusion),"The president implied that he would not support the new law against selling tobacco, but he didn't say it clearly.",Magoosh
+88,3,noun,a place to find valuable information including study plans and toefl tips. learn more at toefl.magoosh.com,Sam used the 1-month study plan on the Magoosh TOEFL blog to score well on the exam.,Magoosh
+89,3,noun,the state of touching having possible or normal communication communicating (as by email or phone especially) to give or get specific information,"An electrical wire in contact with a pool of water can be extremely dangerous. Liam is still in contact with many of his high-school teachers, surprisingly. The woman at the help desk told me to contact the student affairs office if I want to change rooms.",Magoosh
+90,3,noun,"the way a group of people living in one area normally acts, including arts, style, food, and how people talk to and act with each other","When living in another country, it can be very difficult to become comfortable in the new culture.",Magoosh
+91,3,adjective,single or separated; only one of,"Joan was surprised that the ten books she ordered from the internet came together, but in individual boxes.",Magoosh
+92,3,noun,"some saved material that can be used for a purpose (especially money, oil, or books) ",Many of the richest countries have surprisingly few natural resources and must buy oil from other countries. Use the library during your studies; it's full of great resources.,Magoosh
+93,3,noun,a plan of action to reach a desired goal,The debate team spent the evening discussing their strategy for defeating the other team,Magoosh
+94,3,adjective,of the body (not the mind) concrete (something real that you can touch or feel),"Cleaning up the campus garden was tiring, physical work. Katerina doesn't like paying for music without a physical copy, such as a CD.",Magoosh
+95,3,verb,"to form an idea of the amount, number, or value of something","Students are evaluated by their grades on tests, homework, essays, and in-class interaction.",Magoosh
+96,3,verb,to be in or on a space; to fill a space,The dentist's office occupied the entire fourth floor of the building.,Magoosh
+97,3,verb,to look at; to think about; to give attention to the center of attention; the most important part,"I could not focus on my homework in the library because someone was playing music very loudly. The focus of Justin's essay was not clear to the professor, so he received a low grade.",Magoosh
+98,3,noun,a name or phrase given to a group of things to identify them (often negative) to give a label to something,"The meaning of the label ""punk"" has changed greatly in the last 30 years. Children are often unkind and label others who look different as outsiders.",Magoosh
+99,3,noun,first in importance,The primary cause of unhappiness is not about money—it is bad health.,Magoosh
+100,3,adjective,"very important, or large in size",The exam score is a major part of the final class grade.,Magoosh
+101,3,verb,to depend on; to need in order to continue well,"In many countries, children rely on their parents for food, money, and housing until they are over 20 years old.",Magoosh
+102,3,noun,possible ability that might be used in the future having the ability to do something in the future,Wind and solar energy have the potential to replace oil. China is potentially the next world leader.,Magoosh
+103,3,adjective,yearly; happening every year,Everyone in Manchester was excited about the annual game between the city's two soccer teams.,Magoosh
+104,3,verb,"to argue, usually in a formal, polite way a formal, polite argument",The importance of space travel is strongly debated. Watching the presidential debates on TV did not help me decide who to vote for.,Magoosh
+105,3,verb,to move something a short distance a small change in position or direction,Please help me shift the table so it is easier for people to sit down. The coach's recent shift in strategy is helping the team win more games.,Magoosh
+106,3,noun,work; effort,Juan was surprised at how much labor was needed to finish his project on time.,Magoosh
+107,3,verb,to give something (often money); to help reach a goal to add to the cause of something bigger,"Over the past three years, my parents have not contributed to my university tuition. I smoked a lot when I was younger, and that has contributed to my health problems today.",Magoosh
+108,3,verb,"to be a different size, amount, or character when compared to something else in a similar group",The restaurants in this area vary greatly in quality and price.,Magoosh
+109,3,noun,"the distance between two things (like area, time, or intelligence) to be between a set minimum and maximum","The range of scores on the test was large. In the company, the age of the workers ranges from 25 to 75.",Magoosh
+110,3,noun,the location of something,The people of the city voted for a site downtown as the location of the new sports stadium.,Magoosh
+111,3,verb,to figure out or explain the meaning of something,The students could not interpret the extremely old book because the pages were hard to read.,Magoosh
+112,3,noun,a belief; an idea,I think the professor's notion of fun was different from the students' notion of fun.,Magoosh
+113,3,verb,to create a connection between two or more things a connection between two things,The news story linked the president's success with the improved economy. What is the link between success in life and in education?,Magoosh
+114,3,adjective,to have knowledge of,"As Helen drove away from the gas station, she wasn't aware that her lights were off until she turned onto a dark street.",Magoosh
+115,3,noun,the study of knowledge or a set of theories knowledge and thought a basic idea of a person or organization that affects their actions,"Philosophy has always tried to answer the question ""What is the meaning of life?"" My philosophy is that if you can do something today, you shouldn't wait until tomorrow.",Magoosh
+116,3,noun,a system of connected pieces (especially for transportation or communication),"The typhoon destroyed the network of roads, which has made it hard to bring supplies and first aid to the town.",Magoosh
+117,3,adjective,equal,A shoe size of 30 in Japan is equivalent to size 13 in the USA.,Magoosh
+118,3,verb,to give out something,"The teacher distributed tests to the class, and the students were happy to see they did well.",Magoosh
+119,3,verb,to get or secure something,"After lots of looking, Jorge obtained a job and apartment in New York City.",Magoosh
+120,3,noun,a job or function; a position,The student class president has an important role.,Magoosh
+121,3,noun,a set way of thinking or a set feeling about something or someone,Zach always has a positive attitude when he has to deal with a problem at work.,Magoosh
+122,3,verb,to roughly determine the value or number of something; to guess a number using some information,Be careful to not forget any costs for the year when you estimate your budget.,Magoosh
+123,3,verb,to make something possible,The classes in college will enable you to find a good job.,Magoosh
+124,3,verb,"to spend money, energy, or time on something hoping for good results later to spend money in the hopes of making more money, usually in property, financial shares, or some other activity","If you want to learn another language, you will have to invest a lot of your free time. Jamie invested in an education company that he thought would succeed and make him rich.",Magoosh
+125,3,verb,to give an event or person credit for something (like a work of art or a speech) a quality or feature that is an important part of something,"The museum director attributed the recently discovered painting to Van Gogh. All of his movies have a few attributes in common: for example, there is little conversation and a lot of music.",Magoosh
+126,3,verb,to show or reveal something that was hidden,The politician's crimes were exposed and he was forced to leave his position.,Magoosh
+127,3,verb,to be a close match to send letters back and forth,This new paint for the room does not correspond to the old paint. My mother and father corresponded for almost two years before meeting in person.,Magoosh
+128,3,noun,a set of beliefs or a culture that is passed from family to family over a long period of time,Chris's favorite tradition is eating ham on Christmas.,Magoosh
+129,3,noun,the rank or social class of someone or something the current situation that something is in,"The status of women has slowly improved over the past 100 years, and it continues to improve. What's the status of the new library? Are they finished building it yet?",Magoosh
+130,3,verb,"to disagree with each other; to be impossible together an argument, long battle, or difference of opinions","We want to eat delicious food, but that sometimes conflicts with our need to be healthy. The conflict in Syria has forced many people to leave the country.",Magoosh
+131,3,adjective,happening or being before,The new CEO of Yahoo called the prior CEO of the company to get a better understanding of the company.,Magoosh
+132,3,adjective,clearly different from another thing,There are at least five distinct types of turtle living on the island.,Magoosh
+133,3,verb,to help something continue; to keep going,No animals or plants can sustain life without water.,Magoosh
+134,3,noun,a sample of lesson videos and practice questions to see if magoosh is right for you. learn more at toefl.magoosh.com,Margaret tried the Magoosh free trial to determine if the premium Magoosh service was worth purchasing.,Magoosh
+135,3,verb,to have control over a process so that it functions properly,Parents regulate the amount of time kids spend playing games on their phones.,Magoosh
+136,3,verb,to focus attention on something to come together into a smaller space,You must learn to concentrate to be successful on the test. The protests were concentrated in the city parks.,Magoosh
+137,3,adjective,large enough or important enough to get special notice,A considerable number of popular sports were invented in only the last 100 years.,Magoosh
+138,3,verb,"to politely say no to an invitation or offer to become less, fewer, or smaller (usually of something good) a slow continuous loss of value, power, or strength","I declined dinner because I had plans to eat with my family instead. For ten years, the number of fish in the river has declined. Many people say that America is in decline.",Magoosh
+139,3,noun,other possibility or option different; other than the main option,The menu includes alternatives for students who don't eat meat. Many words in these flashcards have alternative definitions.,Magoosh
+140,3,verb,to live (in a place),I reside in sunny California.,Magoosh
+141,3,noun,"something good coming from an action, agreement, idea, or plan","The president flew around the country, talking about the benefits of the new health care law.",Magoosh
+142,3,noun,a group of people living or working together,The Spanish-speaking community within New York City includes millions of people.,Magoosh
+143,3,noun,one of several things that covers something else to cover something with several coverings,Layers of paint on the steel bridge will protect it from salt water. Sebastian layered the sandwich with all my favorite meats and cheeses.,Magoosh
+144,3,noun,"the running of something or an organization (business, school, government, etc); the person or people in charge of running an organization",The university administration cancelled all school events after a bad storm left most buildings without electricity.,Magoosh
+145,3,verb,to attach something so that it won't come off to get something important (especially when difficult) to be safe; to be well attached,Please tightly secure the surfboards on top of the car. Animals in cold areas often work hard to secure food for the winter. Your money will be more secure in a bank.,Magoosh
+146,3,adjective,"found or happening inside (a body, organization, or thing)",The US government has had lots of problems ever since internal messages were published on news websites.,Magoosh
+147,3,noun,"control or responsibility (over people, area, or laws)",Only Congress has the authority to make and pass laws for the country.,Magoosh
+148,3,adjective,"not likely to change, fall, or move; secure (in employment, finances, housing, etc)",Make sure the ladder is stable before you climb up it!,Magoosh
+149,3,adjective,"not where it is expected, missing","Little Amy smiled up at me, her tongue poking through the hole formed by her absent front teeth.",Magoosh
+150,3,noun,a sudden loss of power or success,An inability to match the lower prices of its competitors led to the company's downfall.,Magoosh
+151,3,verb,to give permission,"The young student dreamed of studying abroad, but her parents would not consent to her leaving for a foreign country.",Magoosh
+152,3,verb,to leave one area to live in another,"The winters felt longer and longer every year, until eventually John and Louise decided to migrate south to a warmer region.",Magoosh
+153,3,adjective,very well known and respected as high quality,The Olympic Games are possibly the most prestigious athletic competitions in the world.,Magoosh
+154,3,noun,a danger,The ice and rain made the road a hazard even to drivers who knew it well.,Magoosh
+155,3,verb,to make happy or satisfied,"Mrs. Iyer was not expecting her children to come visit her for Mother's Day, so she was extremely gratified when they did.",Magoosh
+156,3,verb,to stay for longer than expected,"Although the invitation clearly stated that the party would end at midnight, there were a handful of guests still lingering at 2:00AM.",Magoosh
+157,3,verb,"to officially order a new rule, tax, or punishment",We'll soon find out what punishment will be imposed in response to the test results showing the football player used performance-enhancing drugs.,Magoosh
+158,3,verb,to continue to exist although something/someone tries to stop it,"Mary began to fear she would fail and die while trying to swim across the English Channel, but she persisted and made it across.",Magoosh
+159,3,verb,make someone do something,"Clara hoped her son would clean his room on his own, but eventually she had to compel him by threatening to take away his television.",Magoosh
+160,3,noun,a small amount or individual used for studying the whole thing or group,The scientist broke off a chip of the mysterious glowing rock and placed the specimen under the microscope to try to identify it.,Magoosh
+161,3,noun,a system made of levels of power,"Chickens in groups form a hierarchy known as a ""pecking order,"" which allows the stronger birds to eat first and have first choice of mates.",Magoosh
+162,3,verb,to help the growth of something,A good teacher not only teaches students how to do well on tests; a good teacher fosters curiosity and excitement to learn in her students.,Magoosh
+163,3,adjective,not made correctly and not working,"Joan took her car back to the dealer who had sold it to her, asking that lock be repaired for free since it never worked and was clearly defective.",Magoosh
+164,3,adjective,as a decoration,"When Harry tried to eat an apple in the lobby of a well decorated hotel, he was surprised to find it was made of wax—the fruit was ornamental!",Magoosh
+165,3,noun,a person who actively supports an idea,Martin Luther King Jr. was a tireless advocate for the rights of African-Americans in the United States.,Magoosh
+166,3,verb,to become too much to handle,"Jesse thought he could work two jobs while studying full-time, but his new schedule quickly overwhelmed him, and his grades soon dropped.",Magoosh
+167,3,noun,the force from moving,A train moving at even the slowest speeds has enough momentum to make stopping difficult.,Magoosh
+168,3,noun,"a disadvantage, a negative part","While the new office was cleaner and in a nicer part of town, the total lack of windows was a major drawback that changed the team's mind.",Magoosh
+169,3,verb,to make two things be logical together,Peggy was unable to reconcile her kind friend Jane with the murderous character Jane played on television.,Magoosh
+170,3,verb,to try very hard to accomplish,"Ten-year-old Timmy fell down a lot while he was endeavoring to ride an adult's bicycle, but he eventually succeeded.",Magoosh
+171,3,verb,to communicate information,A skilled actor can convey complicated emotions simply through facial expressions and body language.,Magoosh
+172,3,verb,to improve or make complete by pairing well,"Cecilia is an expert cook, especially when matching flavors—she always knows the perfect appetizer to complement any dish.",Magoosh
+173,3,adverb,without much difficulty or delay,"Because Derek adored the famous scientist, he readily agreed to work for her without being paid.",Magoosh
+174,3,adjective,not easy or impossible to bend,"Tetanus toxin is famous for its ability to stop victims from moving and for the strained, tense, and rigid look of their muscles.",Magoosh
+175,3,noun,a strong disagreement among many people,Laws on gun control in the U.S. have caused controversy for many years.,Magoosh
+176,3,adjective,having more than one possible meaning,"The coach told his team, ""Move to that side of the field,"" but because he did not point, his directions were ambiguous, and nobody knew where to go.",Magoosh
+177,3,adjective,"very little, not enough","When gasoline was expensive and scarce, people found ways to travel without using their cars.",Magoosh
+178,3,adjective,logical and understandable,"Sadly, the most popular politicians are rarely the ones with the most coherent arguments.",Magoosh
+179,3,noun,a small amount of color,"To prevent his famous passengers from being seen by the public, the driver applied a heavy tint to his car's windows.",Magoosh
+180,3,noun,the time period of an important historical situation,"It is interesting to walk through a museum of eighteenth-century history, but few people would want to live in an era without electricity.",Magoosh
+181,3,verb,to try to prevent; show opposition to,"The government's primary job should be to deter paths to war, not find reasons to start them.",Magoosh
+182,3,preposition,by going through or using,The highway is full of traffic at this hour—it would be faster to travel via smaller streets.,Magoosh
+183,3,verb,"to send out into the air (used for light, sound, smell, etc.)","The single lighthouse shone into the dark, emitting pulses of light that could be seen for miles.",Magoosh
+184,3,adjective,continuing forever without pause,"Although a perpetual motion machine would be an amazing source of energy, such things do not exist; everything comes to a stop at some point.",Magoosh
+185,3,verb,win a victory over,"Determined to make more friends this year, Finn overcame his shyness and introduced himself to the new student.",Magoosh
+186,3,noun,something that limits or restricts,"We don't have many resources, so we'll have to work with some very tight constraints.",Magoosh
+187,3,adjective,planned but not definite,"Nisha and her husband wanted to buy plane tickets for summer vacation, but they wisely did not while their schedules were still tentative.",Magoosh
+188,3,adjective,"beautiful, graceful","The carefully practiced, elegant movements of the ballet followed the beautiful sounds of the orchestra.",Magoosh
+189,3,verb,to reach the highest or most developed point,"Beethoven's musical genius culminated in the 9th Symphony, which many consider his greatest work.",Magoosh
+190,3,verb,to acknowledge defeat,I concede. You win!,Magoosh
+191,3,verb,to force to move to another place,"The repeated floods in the capital city have displaced more than 10,000 people, many of whom are now living in their cars or on the streets.",Magoosh
+192,3,adjective,complicated and difficult to understand,"Instead of solving the math problem in three simple steps, Kumar used a convoluted solution requiring fifteen steps.",Magoosh
+193,3,adjective,too large and difficult to handle,"In many military exercises, soldiers have to carry bulky backpacks for long distances to test their strength.",Magoosh
+194,3,adjective,very large or wide,"Sinbad had always known that the desert was big, but he had no idea how vast it truly was until he crossed it on foot.",Magoosh
+195,3,verb,to match the rule or standard,"Before every yearly government inspection, the cooks would chase away mice to make the restaurant look like it conformed to cleanliness guidelines.",Magoosh
+196,3,verb,to bend into a different shape,"The wood of the guitar warped after several hours of sitting in its owner's car, which grew extremely hot in the sun.",Magoosh
+197,3,verb,to cover part of (used for two similar things); be in the same place or time,"I'd like to go both to Jon's birthday party and to my little sister's concert, but they overlap by almost three hours.",Magoosh
+198,3,adjective,done before someone else can do it,"Just as Martha was about to take the only cookie left on the table, Noah preemptively grabbed it.",Magoosh
+199,3,verb,to take out by force,"Some cheeses aren't vegetarian because they're made using a liquid called ""rennet,"" which is extracted from cow's stomachs.",Magoosh
+200,3,adjective,clearly unusual (used for people or behavior),"Mozart was well-known for his eccentric behavior, often speaking words backward to confuse those around him.",Magoosh
+201,3,noun,lack of interest,"In an effort to fight indifference, the president of the college introduced a new, stricter grading system.",Magoosh
+202,3,verb,to continue to do something even though it's difficult,"Sarah persevered through the storm, fighting through the cold and rain, to make her way home for Christmas.",Magoosh
+203,3,adjective,polite and respectful,"Since Tom is usually extremely courteous, his sister was shocked when he served their guests spaghetti using only his hands.",Magoosh
+204,3,verb,to create a basic picture or plan quickly,I sketched some of my initial thoughts before beginning work of visuals for the presentation.,Magoosh
+205,3,verb,to change the shape from what it should be into something different,"The twisted mirror distorted the man's reflection, making him appear twice as tall and far too thin.",Magoosh
+206,3,adjective,helping to make happen,Studying in a quiet room is conducive to learning; studying in a noisy environment makes learning harder.,Magoosh
+207,3,verb,to happen at the same time,Apple's announcement of the next iPhone coincided with the release of Samsung's newest phone.,Magoosh
+208,3,adjective,more than is needed; overly expensive,"Susie's wedding was extravagant, with a dinner of steak and lobster, invitations decorated with gold, and a ceremony at a castle.",Magoosh
+209,3,adjective,simple and made without skill; not processed,"Once he realized he had forgotten his tent, Arpit attempted to build a crude shelter out of mud, branches, and leaves.",Magoosh
+210,3,verb,to move around a large area with little direction or plan,Horses roam freely across the hills of the national park.,Magoosh
+211,3,adjective,sudden and unexpected or short,The careless car in front of Elle came to such an abrupt stop that she didn't have enough time to react and crashed into the car.,Magoosh
+212,3,adjective,very many; more than enough,"Although he had an abundant supply of snacks, Jim didn't want to share and lied to his guests that he only had one bag of popcorn.",Magoosh
+213,3,verb,to shine or reflect small bits of light,The silver of her dress shimmered like diamonds every time the light hit it.,Magoosh
+214,3,adjective,not doing what is ordered,The teenagers were defiant and refused to help when Mr. Niles ordered them to clean the mess they'd made during their food fight.,Magoosh
+215,3,adjective,separate and very different,Studies as disparate as religion and biology have been brought together by research into what happens in the brain during a religious experience.,Magoosh
+216,3,verb,to cause to happen,"The sound of a gunshot triggered a panic in the streets, as people ran in every direction, unsure of the source.",Magoosh
+217,3,adjective,not existing anymore,The dodo bird has been extinct for more than 350 years—the last confirmed sighting was in 1662.,Magoosh
+218,3,verb,to completely destroy,The earthquake completely demolished the old home—no walls were left standing.,Magoosh
+219,3,adjective,very new and creating a big change,The revolutionary discovery of antibiotics like penicillin completely changed modern medicine.,Magoosh
+220,3,conjunction,only if,"Provided you study hard for the exam, you should do well enough to pass the class.",Magoosh
+221,3,adjective,combining well to improve both parts,"Although no one of the three ingredients in a margarita is delicious alone, the tequila, lime juice, and liqueur together are complementary.",Magoosh
+222,3,adjective,causing a lot of disagreement,"When the class debate begins to bore her, Wendy loves to say something controversial and start heated arguments among her classmates.",Magoosh
+223,3,adjective,"very important, necessary",Sugar is an integral ingredient in any cake recipe.,Magoosh
+224,3,noun,a feeling of wanting to choose one option (often a repeated preference),"Although the inclination is to ride a bike nearer to parked cars, they can be more dangerous than moving ones, as a door may open in front of you.",Magoosh
+225,3,noun,a set of rules about what to do in formal situations,Jonah followed every step of the protocol carefully to make sure the experiment was performed correctly.,Magoosh
+226,3,adjective,strong and full,"Chris preferred watery, mild beers, but Bhavin preferred a beer with more robust flavor.",Magoosh
+227,3,adjective,existing across a large area or number of people,"As vaccine usage becomes more widespread, fewer people suffer from preventable diseases.",Magoosh
+228,3,verb,to continue to exist; to live through bad experiences,"Without food or water for days, the three shipwrecked survivors had to endure great hunger and thirst as they waited for rescue.",Magoosh
+229,3,verb,"to fix, especially something torn or broken",Jimmy and his father had stopped talking over the years and looked forward to mending their broken relationship over the holidays.,Magoosh
+230,3,verb,to cause to separate and go in different directions,"Students came from many countries for English classes at our school, but after the program ended, they dispersed and never saw each other again.",Magoosh
+231,3,noun,an enemy,The robot army became a clear foe to all humans when they stopped doing what they were told and began destroying homes.,Magoosh
+232,3,verb,to be quietly angry about something somebody else did or said,I resented my older brother for all the times he started fights with my friends and me as children.,Magoosh
+233,3,verb,to hold tightly onto,"Standing in front of the airport, Judy clung to her father's arm and begged him not to leave.",Magoosh
+234,3,adjective,hard to break or damage (in a good way),"Andrew only buys durable shoes—if they can't survive at least ten years of regular wear, he won't even consider buying them.",Magoosh
+235,3,adjective,happening very soon,The impending doom of our world has been discussed and debated for over 2000 years.,Magoosh
+236,3,adjective,continuing even though somebody tries to stop it (usually used for bad things),Sue's persistent coughing and sneezing continued until the cold developed into pneumonia and she had to get medication.,Magoosh
+237,3,adjective,very beautiful,"The crowd took thousands of pictures of the movie star in her stunning dress, which was so beautiful they couldn't look away.",Magoosh
+238,3,adjective,not having any of,Milly is the most serious person I know—her stories are always completely devoid of humor.,Magoosh
+239,3,verb,to make unclear known by only a few,"While they drove past the Grand Canyon, Mr. Smith's big head obscured much of Mrs. Robinson's view, so she only saw small patches of red rock. Many words beginning with the letter 'x' are so obscure that only a few people have ever heard of them.",Magoosh
+240,3,adjective,without preference or bias,"Sports referees have to be impartial, because if we know that they prefer one team, the final result becomes arguable.",Magoosh
+241,3,noun,the time of day immediately after the sun goes down,"Even though the sun had set and dusk had fallen, Sara and Klaus stayed on the beach, talking and laughing into the night.",Magoosh
+242,3,verb,to make hard or impossible to make progress,"Virginia's back pains impeded her ability to work, until eventually she had to leave her job entirely.",Magoosh
+243,3,verb,to come to a conclusion through logic and evidence; to figure out,"By analyzing the bones, we can deduce when the animal lived and, maybe, how it died.",Magoosh
+244,3,noun,a period of time in a longer process of change,There are at least three different phases in a frog's development from egg to adult.,Magoosh
+245,3,verb,to keep; to continue to have or contain,"Originally from France, Jean retains a hint of her French accent even today.",Magoosh
+246,3,noun,the health and happiness of a person or group,A perfect government would care more about the welfare of its people than anything else.,Magoosh
+247,3,verb,to not include; to keep out of a list or group,"I eat almost anything, excluding spicy foods. I hate hot peppers.",Magoosh
+248,3,verb,"(usually ""be derived from"") to come from; originate from",Many European languages are derived at least partly from Latin.,Magoosh
+249,3,verb,to create; to produce (especially energy),Movement generates heat.,Magoosh
+250,3,noun,an effect that changes a situation to affect strongly the force of being hit hard,The end of the war had a large impact on economic growth. My father's advice hugely impacted my university decision. The impact of a car crash can send a driver who doesn't wear a seat belt through the window.,Magoosh
+251,3,noun,a rule or idea that makes the base for a system (often moral),The principles at the heart of the new religion are the same as many central beliefs of Christianity.,Magoosh
+252,3,noun,a part of a whole,Many electronics are made of thousands of smaller components and wires.,Magoosh
+253,3,verb,to follow; to chase to try to achieve (a dream or goal),"The baby elephant ran, but the pack of lions pursued it. Man pursued the dream of flight for hundreds of years before the modern airplane was invented.",Magoosh
+254,3,noun,a thing that exists or acts as one,"The male angler fish will attach permanently to the female, and in time, the two fish will become a single entity.",Magoosh
+255,3,verb,"to work or communicate with the different people, groups, or pieces involved in a large project","A chef at a big restaurant will spend his time coordinating all of the menus and other workers, not cooking.",Magoosh
+256,3,verb,to watch the quality or progress of something over time something or somebody which monitors,We have been carefully monitoring the amount of salt in our oceans for the last 50 years. Heart rate monitors can be used for both medicine and exercise.,Magoosh
+257,3,noun,the appearance of objects from a particular direction a point of view; an opinion,"Young children's drawings do not have clearly defined perspective; you may see three walls of an outside of a building, for example. Many Hollywood movies, when watched from a woman's perspective, have clearly sexist characters.",Magoosh
+258,3,verb,to become a part of,"It is difficult to smoothly integrate a small, foreign culture into the main culture of a country.",Magoosh
+259,3,verb,to look for; to search,"Across many different cultures' stories, heroes seek more than just gold or fame.",Magoosh
+260,3,verb,"(usually ""to be oriented"") to move into a position in line with some specific point (usually ""to orient yourself"") to explore and become comfortable with","The statues appear to be oriented toward the sunrise. It took a few weeks to orient myself in the new job, but I feel comfortable now.",Magoosh
+261,3,verb,to be made of,The U.S. consists of fifty states.,Magoosh
+262,3,adjective,outside (especially of a body or system),"Uncontrollable, external events can cause even a very careful company to fail.",Magoosh
+263,3,verb,to come out of,"After a winter spent sleeping, the bear emerges from its cave.",Magoosh
+264,3,verb,to be the pieces that make a whole,Fifty states constitute the U.S.A.,Magoosh
+265,3,noun,"a structure for a building, system, or idea","Ellen's business plan may have failed, but it formed the framework for her next, successful plan.",Magoosh
+266,3,verb,"to do or perform (something very negative, like a crime) to promise; to make a final and unchangeable decision (usually ""be committed to"") to give all of your energy to something","Michiko committed too many grammar errors in her essay, and that hurt her score. Before you commit to a university, be sure to spend some time on campus. I'm completely committed to our baseball team's success; I'd do anything to win.",Magoosh
+267,3,adjective,having many different types,"The student population is incredibly diverse at South State University, with students from 30 different countries.",Magoosh
+268,3,verb,to make people follow (a rule or law),"Although smoking is not allowed on school campus, the ban isn't enforced, and many students smoke freely.",Magoosh
+269,3,noun,the measures by which something is judged or decided,"A good TOEFL essay meets a few criteria, including good structure, clear ideas, and natural vocabulary.",Magoosh
+270,3,adjective,separate; not the same thing and with no parts in common,Your left arm and right arm are controlled by two discrete areas of the brain.,Magoosh
+271,3,adjective,from a reasonable or correct basis,"Many people have said the artist Jackson Pollack's work didn't require much skill, and that idea is somewhat valid.",Magoosh
+272,3,verb,to give a good reason for an action or situation (especially one that seems bad),"Although Milos explained for a long time, he could not justify borrowing his brother's car without asking.",Magoosh
+273,3,verb,to be aware of; to sense or feel,"If hunters are skilled, the animals will not perceive their presence.",Magoosh
+274,3,noun,"a feature, a characteristic, a particular part of something","The three most important aspects to think about when learning a language are grammar, vocabulary, and pronunciation.",Magoosh
+275,3,adjective,central; of fundamental importance the center of something,"Although we have made improvements in brain science, many of the core problems remain. The earth's core is made of liquid rock.",Magoosh
+276,3,noun,the amount or volume something can hold ability (especially mental),The hotel is full to maximum capacity; there are no empty rooms. Few birds have the capacity to recognize themselves when looking in a mirror; most act as though there is a second bird behind the glass.,Magoosh
+277,3,verb,to limit the activity of; to restrict,"Popular belief says that a pet fish's size is constrained by the size of the tank it's in, but this is actually false.",Magoosh
+278,3,verb,to start (a rule or system) a group or organization that studies or works for something specific,"In January, we will institute a plan to make car accidents less frequent. The National Cancer Institute was created to learn more about, and hopefully cure, the many types of cancer.",Magoosh
+279,3,noun,"a rule made by an organization, government, or company",School policy does not allow alcohol on campus.,Magoosh
+280,3,adjective,clearly seen or understood seeming (but not definitely true),"After only a few months, it was apparent that the French would not win the war. The shark's apparent sleepiness is actually because of how cold the water is.",Magoosh
+281,3,verb,to make easier,"Classical music, unlike many types of music, will generally facilitate learning and improve memory.",Magoosh
+282,3,verb,to agree to give (something that was asked for) to admit; to say something is true,"The government has recently granted us access to information that was secret before. I disagree that snakes make good pets, but I'll grant that they're easy to take care of.",Magoosh
+283,3,noun,a fact that influences or changes a result,Two of the largest factors affecting children's healthy growth are food and relationships with parents.,Magoosh
+284,3,noun,a large plan the system by which something is arranged,Microsoft's marketing scheme for their new tablet computer was less than successful. The modern scheme for naming different types of plants and animals started around 1800.,Magoosh
+285,3,verb,to correct a problem with another positive thing,"The pay at Ian's new job was low, but the freedom his boss gave him compensated for that.",Magoosh
+286,3,noun,a resource available to students to help them study for the toefl. learn more at toefl.magoosh.com,Henrik did well on the TOEFL after learning from over 100 Magoosh video lessons.,Magoosh
+287,3,noun,the size or amount of something compared to the whole or other parts,"Cartoons of people often have exaggerated proportions, such as very large eyes or hands.",Magoosh
+288,3,adjective,immediately after,"Both the winter and the subsequent spring were surprisingly dry, with neither snow nor rain.",Magoosh
+289,3,adjective,forming the basis for something,There is no single way to put an end to drug addiction since there are many underlying causes.,Magoosh
+290,3,noun,a range of subjects or studies; a field; a discipline,"Researchers working in many different areas, from psychology to physics, will be able to use the new type of plastic.",Magoosh
+291,3,verb,to go back to a previous position,"Before a tsunami hits, the water recedes, which is dangerous for those who unknowingly go to investigate before the big waves come rushing in.",Magoosh
+292,3,adjective,long and boring,"When asked to memorize every capital city in the world, Michael didn't understand why his teacher had asked him to do such a tedious task.",Magoosh
+293,3,noun,"something that is not normal, standard, or expected","After finding anomalies in the data from her experiment on the effects of caffeine on turtles, Anne decided to start again.",Magoosh
+294,3,noun,extreme tiredness from too much work,The three-day hula-hooping contest left even the most experienced hula hoopers limp with fatigue.,Magoosh
+295,3,adjective,"slanted, higher at one end and lower at the other",Most houses in Canada have sloping roofs because the weight of snow on a flat roof could destroy a house.,Magoosh
+296,3,adjective,causing harm or injury,"Many know that smoking is detrimental to your health, but processed sugar in large quantities is equally bad.",Magoosh
+297,3,verb,to produce a liquid (from or within a living thing),"Saliva is created in the mouth constantly, but it is secreted most rapidly when eating or drinking.",Magoosh
+298,3,adjective,with very little color,"The cover of the book was originally bright red, but it became a pale pink after sitting in the sun for three months.",Magoosh
+299,3,adjective,required by rule,"Although she had always hated writing, Mary found that the compulsory Intro to Writing class taught her valuable skills.",Magoosh
+300,3,noun,the time of evening before complete darkness,"The brightest handful of stars first become visible at twilight, but most stars stay hidden until the full darkness of night has fallen.",Magoosh
+301,3,adjective,lasting a very short time,"If we lived forever and life was not transitory, do you think we would appreciate life less or more?",Magoosh
+302,3,adjective,with careful attention to details,"Overconfident students may understand how to solve math problems but not be meticulous in their calculations, resulting in wrong answers.",Magoosh
+303,3,adjective,able to change; changing frequently,"Robin Williams was a dynamic comedian: because of his sharp mind and ability to improvise, even his co-actors didn't know what he might say next.",Magoosh
+304,3,verb,to cause to happen,Staring at the small screen of a smartphone while on a car or train can induce headaches and motion sickness.,Magoosh
+305,3,verb,"to spread widely, create more of","Copernicus first wrote that the earth revolved around the sun, but it was Galileo who later propagated the idea to wider audience.",Magoosh
+306,3,verb,to come together into a crowd,"As the protestor spoke, she drew more and more listeners, who slowly congregated around her to show support for her cause",Magoosh
+307,3,verb,to try hard to achieve something,"Every day he strives to be on time to work, but despite his honest efforts, he is late more often than not.",Magoosh
+308,3,adjective,of the countryside; simple and old-fashioned,The artist was known for painting rustic landscapes since there were always cows and farms in his pictures.,Magoosh
+309,3,adjective,complete and very detailed,"Wikipedia makes no claim to be an exhaustive encyclopedia, as many more obscure topics don't even have pages.",Magoosh
+310,3,verb,to move very near an acceptable limit,The US President's ability to give military orders without declaring war encroaches on the Congress's authority in giving the formal declaration.,Magoosh
+311,3,adjective,not sharp,The blunt knife can't cut the bread—it barely can cut the butter!,Magoosh
+312,3,adjective,very serious,"Most of Bach's orchestral melodies are light, but his organ music often has a grave quality that fits movie scenes of suspense or horror.",Magoosh
+313,3,adjective,"completely impossible, ridiculous","Although it may be ridiculous today to believe the earth is flat, it's even more preposterous to think that the sky is a physical blue disc.",Magoosh
+314,3,noun,an incorrect idea that somebody believes strongly,"I think his dream of living in wealthy Beverly Hills is a delusion, but he continues to tell people that is where he will be living in a year.",Magoosh
+315,3,verb,to care for lovingly,"Although it was far less beautiful than her more expensive clothing, Leah cherished the dress her mother had made by hand.",Magoosh
+316,3,adjective,ordinary and boring,"Although Jane knew being a lawyer would pay well, it seemed too mundane, so she left law school to pursue dreams of becoming a celebrity chef.",Magoosh
+317,3,adjective,fake or untrue (generally of illegal claims),"Since I have no background in medicine, If I advertised my services as a doctor, I'd soon be arrested for making the fraudulent claim.",Magoosh
+318,3,adjective,"not real, based on an illusion","You think you may see water in the distance in a desert, but it is only an illusory effect created by the hot layer of air over the sand.",Magoosh
+319,3,adjective,able to see the most important information to make a decision,"Alfonzo was an astute chess player, always ready to use an opponent's misplay as an opportunity to attack.",Magoosh
+320,3,adjective,similar in some respects but otherwise different,"There are few animals that form partnerships analogous to marriage, but among them are eagles, wolves, and even some fish.",Magoosh
+321,3,verb,to explore and learn about using hands or a tool,"The new camera is designed to probe the interiors of blood vessels, giving a detailed view that doctors have never had before now.",Magoosh
+322,3,verb,to completely separate in all directions,"Three days after I accidentally cooked a mouse that had crawled into my oven, the smell still hasn't dissipated.",Magoosh
+323,3,adjective,secret or hidden,"The attack was intended to be covert, but before it could begin, the entire plan was revealed to the target.",Magoosh
+324,3,verb,to attract or persuade with promises of benefits,Some of the most effective hunters are those who entice their targets into traps with the appearance or smell of food.,Magoosh
+325,3,verb,to confuse somebody,"Even skilled mathematicians are sometimes perplexed by physics, since the logic comes not from abstract rules but from the physical world.",Magoosh
+326,3,adjective,acting as a key part of a process,"The university believed that passion was instrumental to learning—without it, you'd be wasting your time in class.",Magoosh
+327,3,noun,a small sickness or cause of physical discomfort,"At the age of 80, my grandfather is lucky to have no major illness and struggle with only a small number of minor ailments.",Magoosh
+328,3,verb,to cut from a hard material,"With careful strokes of a sharp blade, the sculptor carved his beautiful statue from a single piece of wood.",Magoosh
+329,3,adjective,comfortable when talking to other people,"Dave is outgoing and confident nowadays, especially at parties, but few know that he struggled with social anxiety earlier in life.",Magoosh
+330,3,noun,to suddenly move or push hard,"When the traffic light turned green, all of Mike's passengers suddenly felt a jolt as he pushed his foot down hard on the gas pedal.",Magoosh
+331,3,noun,a promised reward to motivate,"Tom knew none of his friends would help him move to his new house without an incentive, so he promised to buy everybody pizza at the end of the day.",Magoosh
+332,3,verb,to go up and down regularly in amount,"While the light of the Sun appears constant from day to day, the light of the Moon fluctuates over the course of a month.",Magoosh
+333,3,verb,"to ask for emotionally, to beg","Crying, the new driver pleaded with the officer not to give her a speeding ticket, but he refused to listen, his face emotionless.",Magoosh
+334,3,verb,to add to the end,"Mozart, dissatisfied with the tragic, destructive ending to his opera Don Giovanni, appended a final scene that gives a lighter conclusion.",Magoosh
+335,3,noun,a highly valued object from a very long time ago,Among the relics held in Notre Dame cathedral is a piece of wood believed to be part of the cross on which Jesus died.,Magoosh
+336,3,adjective,requiring a lot of physical effort,"One of the most strenuous races on earth, the Ironman Triathlon requires swimming 2.4 miles, biking 112 miles, and then running a marathon.",Magoosh
+337,3,verb,to win completely in a competition or fight,Modern medicine has nearly vanquished some diseases that only two generations ago might have been deadly.,Magoosh
+338,3,noun,a person who has a role after a previous person,"US President James Buchanan didn't know what to do when the US Civil War started, but fortunately his successor, Abraham Lincoln, was a wise leader.",Magoosh
+339,3,noun,a person or thing with the same function as another in a different place,"Years after the war in Vietnam, General Westmoreland of the American Army criticized the strategies of his counterpart from the North, General Giap.",Magoosh
+340,3,adjective,with strong images or colors,"In its famous baptism scene, the movie The Godfather showed a vivid contrast between the peace of a church and bloody murders of gang rivals.",Magoosh
+341,3,verb,to break (of something very hard),"Under the enormous weight of a modern city building, stones without enough support will fracture, leading to collapse.",Magoosh
+342,3,adjective,exteremely important in order to succeed,The CEO made it very clear to his employees that quick development and publication of results were pivotal to ensure more funding.,Magoosh
+343,3,verb,to publicly agree with and support,The teacher's union endorsed the candidate's plan to increase school funding by placing a higher tax on cigarettes.,Magoosh
+344,3,verb,to cause feelings or responses to come out,Just smiling—even if you are depressed—can elicit feelings of pleasure and happiness.,Magoosh
+345,3,adjective,describing a statement that is not believable,Sally knew James was lying because his story was so implausible—nobody could have stayed awake for 80 straight hours.,Magoosh
+346,3,adjective,possible to do without problem,Our global economy is so complicated that it is not feasible for one person to understand it entirely.,Magoosh
+347,3,noun,a large number of something,"When Andrew tipped over the tall black bookshelf, scores of books and magazines came crashing to the floor.",Magoosh
+348,3,noun,a comparison of two very different things that have one similar aspect,"There are surprising analogies we can make between medicine and warfare, especially in cancer treatment, which uses radiation to attack tumors.",Magoosh
+349,3,adjective,not used anymore,"Vinyl records are generally obsolete as a way to play music, but some collectors value them highly for their distinctive sound.",Magoosh
+350,3,noun,how a person thinks about the world,"With her warm smile and ability to find the advantages of even the worst situations, Janet became known in the office for her positive outlook.",Magoosh
+351,3,noun,an agreement reached by a whole group of people,"Alicia and her sisters argued for weeks about who would live in the house their parents had left, eventually reaching a consensus to simply sell it.",Magoosh
+352,3,adjective,"more than is needed, desired, or required","The dictionary has provided all of its content online for free, so buying the book is superfluous for anyone with a smartphone.",Magoosh
+353,3,adjective,impossible to reversed,"Fleeing his country was Abraham's best chance at survival, but once he left his decision would be irrevocable.",Magoosh
+354,3,adjective,with uneven edges; torn,"I tried to sell my textbooks after I graduated, but their pages were so ragged that nobody would buy them.",Magoosh
+355,3,verb,to mention a topic in order to make people feel a certain way,"The strongest argument to preserve the land as a national park came from the local natives, who invoked the respect for nature of their ancestors.",Magoosh
+356,3,adjective,not able to produce plants (of land),"Many Americans think of the Sonoran Desert as entirely barren, unaware of the diverse ecosystem that actually survives in that harsh environment.",Magoosh
+357,3,verb,to take control of power or energy in order to use it,"""If you could just harness some of that youthful energy,"" said my mother, ""you'd be able to get better grades.""",Magoosh
+358,3,adjective,quick and energetic,Alice walked at such a brisk pace that Frank began sweating trying to stay next to her.,Magoosh
+359,3,adjective,very noticeable and unusual,"Most of the people in the picture were smiling, but one little child looked out at the photographer with a striking frown.",Magoosh
+360,3,adjective,perfectly calm,"Feeling entirely relaxed, Abigail looked at the ocean out her window with a serene smile on her face.",Magoosh
+361,3,noun,a small piece that is left when most is gone,A crumb of cheese on the table was the only remnant of last night's celebratory dinner.,Magoosh
+362,3,adjective,without the possibility of success,"""I am far too powerful to be stopped now,"" boasted the evil wizard. ""Your quest is futile.""",Magoosh
+363,3,verb,to completely destroy,"I tried eradicating the mosquitos in my apartment with a rolled up newspaper, but there were too many of them.",Magoosh
+364,3,verb,to say officially that a normal requirement isn't required,The government decided to waive the minimum number of classes needed to maintain student visas for those who met family requirements instead.,Magoosh
+365,3,noun,"a violent, sudden, and large change","The earthquake raised miles of land several feet higher in a single, massive upheaval.",Magoosh
+366,3,adjective,extremely strongly felt,Louise felt a profound dislike for the rude young man who spat on the street in front of her.,Magoosh
+367,3,adjective,wealthy,The homes at the top of the hill are so large and beautiful that only the highly affluent can afford them.,Magoosh
+368,3,adjective,with a very strong effect,"A cup of tea can be nice, but when you need to stay awake, espresso is a more potent solution.",Magoosh
+369,3,adjective,a little bit chaotic or violent and disorganized,The once calm classroom grew turbulent when a hand-sized spider ran across the floor.,Magoosh
+370,3,adjective,unchanging and stubborn,Starting a career as a poet is almost impossible today—only the most tenacious writers follow their dreams long enough to find success.,Magoosh
+371,3,noun,fear that something bad will happen,"Every time I get on an airplane, I breathe deeply and tell myself it's safe, but still I have a feeling of apprehension as we take off.",Magoosh
+372,3,adjective,very light or small (of a feeling or sense),"A gust of cool autumn wind blew through the window, and Sebastian felt a faint chill on the back of his neck.",Magoosh
+373,3,adjective,with no emotion or interest,Mr. Thompson was so talented at teaching math that even normally apathetic students took interest.,Magoosh
+374,3,verb,to place among or between other things,"The garden was a mess, with unwanted grass interspersed throughout the flowers.",Magoosh
+375,3,verb,to combine two different things into one,The scientist realized that it would be faster to buy the more complex chemicals instead of synthesizing them from simpler ones.,Magoosh
+376,3,adjective,imitating or based on,Most of the fashions this year are derivative; they copy the style that was popular a few years ago.,Magoosh
+377,3,adjective,awkward and without skill,John is not trying to be destructive but is merely clumsy; most of the items he has broken were not in his line of sight when he bumped into them.,Magoosh
+378,3,adjective,rough and uneven or rocky,"Mountain paths tend to be covered in tree roots and a mixture of rocks, making strong footwear important when dealing with the rugged ground.",Magoosh
+379,3,adjective,"small, warm, and comfortable","After hiking for hours through the snow, Janice felt warm and cozy resting under a thick blanket with a cup of hot cocoa.",Magoosh
+380,3,adjective,not enough in amount,Aunt Lu's meager collection of board games was not enough to keep the children entertained on a rainy day.,Magoosh
+381,3,noun,a situation that seems impossible because it is made of opposite things,"When he first arrived in the desert, Alex did not believe the paradox that drinking hot tea could make a person feel cool.",Magoosh
+382,3,adjective,extremely large,"Few appreciate the colossal size of the sun: if hollow, it could contain a million Earths.",Magoosh
+383,3,noun,the quality of being clever and original,"Although Thomas Edison is often remembered for his inventions and ingenuity, it was his talent in business that truly made him great.",Magoosh
+384,3,verb,"to continue to exist, staying important or common","Despite the best efforts of environmentalists around the world, oil, gas, and coal have prevailed as the main sources of energy.",Magoosh
+385,3,adjective,possible to be done successfully,The lost hikers' plan to build a shelter before dark seemed much less viable when the sky grew cloudy.,Magoosh
+386,3,verb,to think of or plan an idea or system,Students in Mr. Needham's physics class had to devise a method for protecting an egg as it was dropped from the roof of the school.,Magoosh
+387,3,adjective,"in or relating to the countryside, away from cities","Ron preferred to live outside the city, as he had grown up near a lake surrounded by a forest in the more rural part of his hometown.",Magoosh
+388,3,adjective,most frequent or common,"The predominant color in the paint was white, even though the name ""morning sun"" made it sound yellow.",Magoosh
+389,3,verb,to stop doing,The lawyer warned the new hamburger restaurant that they would be sued if they did not desist all use of the copy of the McDonald's logo.,Magoosh
+390,3,noun,a very small amount,"After examining the crime scene, the detectives knew they were dealing with professional thieves — not a single shred of evidence was left behind.",Magoosh
+391,3,adjective,only (used to show large amounts of one thing having an effect),The sheer size of the Amazon river makes it very difficult to cross at some points.,Magoosh
+392,3,verb,to attach or tie tightly to something (not using glue),The dog's owner made sure to fasten the leash to a nearby tree with a strong knot to make sure it didn't escape again.,Magoosh
+393,3,verb,to happen as a result,"If a cut isn't cleaned and treated quickly, an infection may ensue.",Magoosh
+394,3,adjective,"existing from birth, not learned",Languages have been created in every culture because humans have an innate need to communicate.,Magoosh
+395,3,adjective,difficult and requiring a lot of effort,"I don't think I'd make a good triathlete: I find swimming and cycling easy enough, but I find running absolutely arduous.",Magoosh
+396,3,noun,"the material or method used, especially for communication and art",The artist used finger paint as his medium to remind the viewer of childhood.,Magoosh
+397,3,noun,a color,We watched from our campsite on top of the mountain as the sun set and changed the hue of the sky to the colors of a peach.,Magoosh
+398,3,adjective,near or close but not necessarily touching,The owners of the two adjacent shops worked together to clean up the alley that separated their buildings.,Magoosh
+399,3,verb,to prove to be false or incorrect,Newly found videos of the security guard sleeping during the robbery at the shopping mall refute his story of having chased the thief.,Magoosh
+400,3,verb,to meet and discuss before deciding,"Before I invite you to join our secret club, I'll have to confer with the other members and get their approval.",Magoosh
+401,3,verb,to delay or pause in order to get more time,"When asked to marry a man she didn't love, Charlotte stalled by faking a sudden coughing fit that prevented her from talking.",Magoosh
+402,3,noun,respect from people,"The students held their professor in high esteem: she was not only a well-known author, but also a wise teacher and a friendly mentor.",Magoosh
+403,3,verb,to not be caught,"The infamous art thief had eluded the police once more, but he still had not found a buyer for the stolen painting.",Magoosh
+404,3,adjective,"belonging to the most basic nature of something, impossible to remove","In the past, when we used gold and silver, money had far more intrinsic value than the paper we use today.",Magoosh
+405,3,adjective,easy to see,"""Just my luck!"" said Sam, whose forehead had grown a conspicuous pimple the day before the school dance.",Magoosh
+406,3,adjective,common throughout a wide area at a certain time,The virus was most prevalent in humid areas where mosquitoes were common and could pass it from person to person.,Magoosh
+407,3,adjective,giving a feeling that something bad will happen,"Dark skies and lightning loomed over the town constantly, leaving the residents with an ominous feeling and fear of the weather.",Magoosh
+408,3,verb,to lead and be sure something is done correctly,"The chief engineer oversaw the development of the new computer chip, making sure that each part of the design fit into the overall plan.",Magoosh
+409,3,adjective,sleepy,"The day dragged on, and the only thing keeping the workers from getting drowsy was the automatically refilling coffee machine.",Magoosh
+410,3,noun,an absence of emotion or enthusiasm,"The hardest part of teaching high-school math is fighting apathy in my students—or for that matter, keeping them awake at all.",Magoosh
+411,3,adjective,"likely to do or happen (with ""to,"" used for negative effects)","""Secure that tent,"" said the camp leader, ""or it's liable to blow away in the wind.""",Magoosh
+412,3,noun,an event resulting in a lot of loss or pain,"""It's just jewelry,"" said Frank, but to Augusta, the loss of her favorite necklace was a calamity.",Magoosh
+413,3,noun,an area that is higher at one end and lower at the other,"Many houses in San Francisco are built on sharp inclines, so some buildings have three floors on one side but only two on the other.",Magoosh
+414,3,verb,to grow in number quickly,"When the researchers left for lunch, they counted 200 bacteria in the sample; afterward, the microbes had proliferated to over 4000.",Magoosh
+415,3,adjective,hidden from view; away from people,"Although the businessman had to spend most of his time in the crowded city, he preferred living in a secluded cottage in the quiet, empty countryside.",Magoosh
+416,3,adjective,experienced through a second person,"Without money, Ben had to settle for the vicarious experience of watching the host of his favorite TV show travel to many exciting countries.",Magoosh
+417,3,adjective,not wild,The wild horses of the plains were unable to be tamed by anyone but the most experienced handlers.,Magoosh
+418,3,adjective,longer in one direction,"The huge, oblong table was set for ten people: four on each side, and one on each end.",Magoosh
+419,3,verb,to get after special effort to find,The chef made every effort to procure the rare vegetables for his wife's favorite dish as a gift for their 30th wedding anniversary.,Magoosh
+420,3,verb,to choose not to do (used for enjoyable but possibly harmful actions),"My uncle Ethan was in a car accident in college while driving home from a party, and he has abstained from alcohol ever since.",Magoosh
+421,3,adjective,sad and boring or colorless,"The party was a dreary affair: only five people showed up, and none of them could find much to talk about.",Magoosh
+422,3,verb,to cause to continue,"If you do not let him do things for himself, you are merely perpetuating bad habits that will be even harder to break in the future.",Magoosh
+423,3,adjective,"very obvious, without trying to hide (used for bad things)",Vincent's blatant disregard for the rules got him into a lot of trouble at his strict private school.,Magoosh
+424,3,adjective,"having a strong, good smell","Shirley loved growing roses because they were much more fragrant than the other, more dull smelling flowers in her garden.",Magoosh
+425,3,adjective,"possibly true, realistic","After recordings of the president discussing the illegal actions of his advisors became public, it no longer seemed plausible that he was blameless.",Magoosh
+426,3,adjective,uneven and sharp,Dave was sure he could have climbed higher if he hadn't cut his hands on the jagged edges of the cliff face.,Magoosh
+427,3,verb,to be made of,"Although most of the former state is now part of Russia, the Soviet Union comprised fifteen now independent countries.",Magoosh
+428,3,verb,to not be caught; to avoid,The burglars evaded the police by driving as quickly as they could through a narrow and twisting road.,Magoosh
+429,3,verb,to contain or include,"At many universities, the pre-med courses are subsumed in the Biology department rather than given a department of their own.",Magoosh
+430,3,verb,to weaken (usually paired with an abstract term),William undermined the teacher's authority by questioning her judgment on numerous occasions.,Magoosh
+431,3,verb,to spread out widely,"The food coloring quickly diffused into the water, adding a hint of blue.",Magoosh
+432,3,verb,to grow strong and healthy,The gardener was pleased to find that his new plants only needed a small amount of sunshine and water to thrive and grow quickly.,Magoosh
+433,3,verb,to make seem small or unimportant by comparison,"Jennifer was excited about her basketball team's victory, but her older brother then announced his wife's pregnancy and overshadowed her news.",Magoosh
+434,3,adjective,"confident, sophisticated, and polite",The waiter was so urbane that he maintained his professionalism even when the customer began explaining the unpleasant details of her surgery.,Magoosh
+435,3,verb,to be slowly destroyed by wind and rain,The Appalachian mountains are lower than the young Rocky Mountains because the Appalachians have been steadily eroding for much longer.,Magoosh
+436,3,verb,to change shape; to become something new,I am amazed by his ability to morph a shapeless lump of clay into a delicate and perfectly symmetrical vase.,Magoosh
+437,3,adjective,called a something that is not appropriate (used before the incorrect term),"""I can't believe that I thought William was really an Olympic athlete!"" Helen fumed. ""That so-called gold medal was made from chocolate and tin foil!""",Magoosh
+438,3,noun,something very popular for a short time,Doctors spent several months raising public awareness about the negative effects of the new diet craze that was sweeping the country.,Magoosh
+439,3,verb,to slow the progress of or make more difficult,The steep incline and hot weather hampered the group's efforts to reach the top of the hill in time to see the fireworks.,Magoosh
+440,3,adjective,not caring about hurting people,"The ruthless leader ordered bombings of the southern border of his own country, where thousands of his people lived, in order to win the battle.",Magoosh
+441,3,verb,to decrease in power or size,The politician's career waned as the widening gap between his views and those of who he represented became more obvious.,Magoosh
+442,3,noun,a small difference in meaning or a very small detail,Listen to your favorite song on these $500 headphones and you'll hear nuances you'd never heard before.,Magoosh
+443,3,verb,to completely confuse,The overly technical vocabulary of the paper baffled the students who did not have as much experience as their older classmates.,Magoosh
+444,3,verb,to remove by digging in the ground,"The new apartment building will have underground parking, so the entire site is being excavated, after which they'll build up from the lowest level.",Magoosh
+445,3,verb,cancel by being opposite but equal in amount,"In order to offset his father’s vote to build a new high-speed cross-country train, Larry voted against building the train.",Magoosh
+446,3,adjective,impossible to deny or disprove,"Though highly controversial centuries ago, the idea that the Earth goes around the Sun is now irrefutable.",Magoosh
+447,3,adjective,"extremely sad, without hope","Fariha was a very strong woman, and she never became despondent no matter how many misfortunes she went through.",Magoosh
+448,3,verb,to create (something strong) through a large effort,"Climate change cannot be fixed by any one government; if we are going to stop it, nations around the world must forge a partnership.",Magoosh
+449,3,verb,to decide not to use or have something good,Terry had to forgo his summer backpacking trip across Europe in order to save money to fix his car instead.,Magoosh
+450,3,adjective,experienced at doing something,"Given the managers’ extensive experience, the boss requested that each of her seasoned managers work closely with new hires.",Magoosh
+451,3,verb,to live somewhere,Creatures that dwell deep in the darkest caves have lost all color in their skin and become blind from the darkness.,Magoosh
+452,3,verb,to come together for a formal discussion or meeting,"In response to the school's poor performance on tests, the principal and his best teachers convened to improve the curriculum.",Magoosh
+453,3,verb,to spin or turn around,"Lily's chair squeaked when it rotated, which drove her coworkers crazy due to her habit of swiveling while thinking.",Magoosh
+454,3,adjective,perfectly appropriate,"The lion is sometimes called ""king of the beasts,"" an apt description given the animal's appearance and power.",Magoosh
+455,3,adjective,many in number or very common (used for bad things),Never believe anything you hear in a politician's speech; they are rife with inaccuracies and even lies.,Magoosh
+456,3,noun,a short period of calm or inactivity,"Once Mark and Petra finally got their screaming baby to sleep, they sat quietly, afraid that even a whisper would break the first lull in three days.",Magoosh
+457,3,adjective,produced or growing in very large numbers,"The presidential candidate’s campaign became one of the most popular in history, with a profuse number of supporters attending each of his speeches.",Magoosh
+458,3,verb,to grow stronger or healthier,A good gardener knows plants flourish only with the right amount of sun and water.,Magoosh
+459,3,noun,a serious disease that kills many people,"Sarah wept as she told her children the story of the plague that had killed her village, leaving only two survivors to continue their traditions.",Magoosh
+460,3,verb,to invite or attract to come to,"Julie was supposed to spend all day in the library, but the sun beckoned as she passed a window and she couldn't resist going outside.",Magoosh
+461,3,adjective,"unable to do well, bad at","In spite of his strong resume, it quickly became clear that the new analyst was inept, incapable of performing the most basic analyses.",Magoosh
+462,3,adjective,not secret or hidden,"The disagreement between the neighbors grew from quiet, angry looks to overt hatred as they began throwing eggs at each other's houses.",Magoosh
+463,3,adjective,requiring and demanding accuracy,"Though his childhood piano teacher was so exacting, Max is thankful now, having become a professional pianist.",Magoosh
+464,3,adjective,originating in a certain area,"Many think the potato is indigenous to Europe, but it actually originated in what is now Peru.",Magoosh
+465,3,adjective,unimportant and small,"Even though most would consider it a trivial problem, Mr. Sheldon spent an hour in the meeting questioning where his favorite pen had disappeared to.",Magoosh
+466,3,adjective,well known and respected,"Although the poet was not appreciated or recognized during his lifetime, he became widely celebrated for his creativity after his death.",Magoosh
+467,3,noun,hate and conflict,"Jan had fought loudly with her mother every day until she left for college, so the rest of the family enjoyed the break from the strife.",Magoosh
+468,3,adjective,giving careful attention to detail,The surgeon's fastidious attention to each and every tiny cut or stitch frustrated his staff but overjoyed his patients.,Magoosh
+469,3,verb,to officially end a bad system,"The candidate for student president promised to abolish homework, grades and exams; unfortunately, she lost because nobody believed it was possible.",Magoosh
+470,3,verb,increase or improve after a low point,"Even after his investors and customers had abandoned him, Charles still thought his xylophone business was going to make a rebound.",Magoosh
+471,3,adjective,extremely small,The introduction of the electron microscope made it possible to view infinitesimally small details on cells.,Magoosh
+472,3,noun,a cause or reason to start an action,"Before John met Amanda, all his shirts were old and filled with holes, but his desire to impress her gave him the impetus to buy all new clothes.",Magoosh
+473,3,verb,to slow the progress of or make more difficult,Batgirl's high heels once again hindered her ability to chase the bank robbers; she wondered why she couldn't wear comfortable boots as Batman did.,Magoosh
+474,3,adjective,more than is needed; very fancy,Fido's birthday feast was lavish; most guests thought that a dog would not be able to appreciate the bits of gold in his steak-flavored ice cream.,Magoosh
+475,3,verb,to cover completely with liquid,We regretted not checking the weather before leaving home when we were quickly drenched by an unexpected summer storm.,Magoosh
+476,3,verb,to stop somebody's plan,"Aeroman, the inexperienced town superhero, failed to thwart the villain’s plans to take over the city, which was soon renamed Villiantown.",Magoosh
+477,3,noun,a class that students can select from among alternatives,"While some classes are mandatory for all biology students, others such as parasitology and botany are electives.",Magoosh
+478,3,noun,a false name used publicly,"To avoid public attention, the author decided that rather than using her real name, she would use a pseudonym when publishing her novels.",Magoosh
+479,3,adjective,hard but easy to break,"Unaware that the tree was diseased, the boy had no idea that the thick branch he was climbing on was actually brittle and ready to snap.",Magoosh
+480,3,adjective,very noticeable,The fact that oil companies have shown a marked interest in the lawmaker's proposition should generate some suspicion.,Magoosh
+481,3,verb,to collect together slowly over time into a larger amount,"Billy stored his favorite old toys in his parents' basement, where dust and spider webs slowly accreted on the forgotten plastic soldiers and trucks.",Magoosh
+482,3,verb,to enlarge or increase; to improve,"General Lee's army was augmented when Jackson joined to add his 17,000 men in support of Lee's goals.",Magoosh
+483,3,noun,a state of danger,"Tony Stark, the arrogant billionaire, placed the lives of his loved ones in jeopardy when he publicly announced that he was the superhero, Ironman.",Magoosh
+484,3,adjective,very weak,"After months of being sick in bed, Harry did not have all of his energy back and felt quite feeble when trying to do even simple things.",Magoosh
+485,3,noun,housing that someone is living in,"Expecting her lazy boyfriend’s dwelling to be messy, Jane was shocked to find that the apartment was neat and clean.",Magoosh
+486,3,adjective,cold-feeling and dark; hopeless,Veronica bought two plane tickets to the sunny Caribbean because she didn't want to suffer through another winter in her bleak hometown.,Magoosh
+487,3,verb,to persuade somebody or an animal come somewhere by promising a reward,"In order to lure the mouse into the trap, Gary placed a small amount of peanut butter inside.",Magoosh
+488,3,verb,lift up,"With his face red and his teeth clenched tight, the bodybuilder successfully hoisted the weights over his chest.",Magoosh
+489,3,adjective,producing many things,"Schubert was the most prolific composer, producing hundreds of hours of music before he died at the age of 31.",Magoosh
+490,3,noun,objects for sale,"The store owner was tired of shouting out onto the street all of the different items in her store, so she made wood signs listing her wares instead.",Magoosh
+491,3,verb,to gently persuade or influence to do something,The kittens were shy and distrustful; even a big piece of fish on the floor couldn't coax them out from their hiding place behind the couch.,Magoosh
+492,3,verb,to move around in search for food,"Raccoons are experts at foraging for food: they can find scraps at a campground, under the seats at a ball stadium, or anywhere humans create trash.",Magoosh
+493,3,adjective,making success more difficult,"They were planning on pouring concrete for the building's foundation this week, but due to the rain, the conditions are too adverse to do so.",Magoosh
+494,3,adjective,often changing suddenly and unpredictably,"The wild, sudden turns of the car led the police officer to investigate; when asked about his erratic driving, the driver had no explanation.",Magoosh
+495,3,verb,to show contrast by placing two things next to each other,"My car is still new, but it looks cheap in this parking lot, juxtaposed with so many luxury cars.",Magoosh
+496,3,noun,a traditional story that teaches a lesson,"Grandma's fables always had very specific lessons; my favorites were ""The elf that always left the toilet seat up"" and ""the fairy that chatted on Facebook instead of getting Granny a glass of water.""",Magoosh
+497,3,verb,use all of (used especially for natural resources),"The soldiers had carelessly depleted all of their resources, during the summer, leaving little food for the oncoming winter.",Magoosh
+498,3,noun,"the time when an event will happen very soon (as ""on the verge of"")",I was on the verge of throwing my unresponsive computer out the window when I realized the battery was simply dead.,Magoosh
+499,3,adjective,"cautious, not trusting",Years of being stuck in the loud and crowded shelter made the dog wary of other animals.,Magoosh
+500,3,adjective,too colorful and overly decorated,"Karen knew the bright pink, skin-tight suit was gaudy, but she had promised her five-year old son that he could pick her clothing for the party.",Magoosh
+501,3,adjective,skilled in a specific ability,"After many years of practice and repetition, the sculptor was adept at carving perfect representations of the human body in stone.",Magoosh
+502,3,verb,to flow slowly through something with many small holes,Some people are worried that new methods of natural gas extraction from the earth cause toxic chemicals to seep into the water underground.,Magoosh
+503,3,adjective,showing the truth (used for a story or piece of information),"When I asked William if he still loved me, he didn't say ""no,"" but his silence was telling.",Magoosh
+504,3,adjective,important immediately,"It was six in the morning and she still hadn't finished the essay that was due at eight; but after working all night, her most pressing need was a cup of coffee.",Magoosh
+505,3,verb,to cut off from a whole,"With one strong swing of a heavy axe, the head of the fallen king was severed, and the people were free.",Magoosh
+506,3,adjective,not done well and done quickly without planning,"As there were no building materials readily available after the storm, victims built haphazard shelters from whatever they could find.",Magoosh
+507,3,noun,the time when a big change started or arrived,The advent of the Internet was a major event in human history—never before could people search for and find information so easily.,Magoosh
+508,3,adjective,careful not to do things that hurt or anger other people,Arriving in a new country can be difficult for even the most tactful person; customs that are ordinary in one country may be offensive in others.,Magoosh
+509,3,adjective,extremely small,"Unfortunately for her students, the professor noticed even the most minute mistakes in essays that she graded.",Magoosh
+510,3,noun,an extremely heavy rain,The torrent of rain that accompanied the typhoon dumped several metres of water on the city over the course of the week.,Magoosh
+511,3,verb,to turn away from or prevent,"After heavy rain this winter, water was released from Lake Shasta to avert flooding.",Magoosh
+512,3,adjective,"dry, without rain","Due to years of little rainfall in California, lakes are dry, rivers are empty, and forests are arid.",Magoosh
+513,3,adjective,heavily decorated in small detail,The statues on the church wall are highly ornate: it took the artist years to carve the tiny details.,Magoosh
+514,3,adjective,attractive and old-fashioned (used especially for places or traditions),"As Mary walked through the quaint little village with old-fashioned cottages and stone streets, she felt that she had gone back in time.",Magoosh
+515,3,adjective,"logical and understandable, without errors","After several months of careful investigation, the committee decided that its conclusions were clear and sound enough to report to the public.",Magoosh
+516,3,verb,experience a difficult change or process,"Aiko's school had undergone a quick but detailed renovation, making it disturbingly unfamiliar to her when she returned after only a few weeks away.",Magoosh
+517,3,adjective,"difficult to find, catch, or achieve",Many birdwatchers enjoy tracking highly elusive species because the reward of actually seeing a rare bird is so great.,Magoosh
+518,3,noun,a long time with not enough rain,"The drought left the landscape dry and lifeless; it had not rained in months, and even the river that the town depended on for water had dried up.",Magoosh
+519,3,verb,dry out and die (used for plants),"After two weeks on vacation, the family returned to find that their plants had withered from sitting in the sun and not receiving enough water.",Magoosh
+520,3,adjective,angered at something unjust or wrong,Geoffrey was indignant after the same driver got in front of him then slowed down for the third time.,Magoosh
+521,3,adjective,not harmful,I thought Jim's comment about how much salt I'd put on my food were innocuous until I realized he was criticizing my health choices.,Magoosh
+522,3,verb,to use government authority to demand payment,"In an effort to grow his support among the rich, the newly crowned king put an end to taxes that his father had previously levied on merchants.",Magoosh
+523,3,adjective,of the highest importance,"Although we want the mission to send a man to Mars to succeed, the lives and safety of the astronauts are paramount.",Magoosh
+524,3,verb,to send (a person) away permanently in punishment,"When my parents banished my boyfriend Mitchell from our house, he wasn't even allowed on the front lawn: he had to stay as far away as possible.",Magoosh
+525,3,verb,combine into one,"The two cities of Buda and Pest were separate for centuries, but in the nineteenth century they fused to become Budapest.",Magoosh
+526,3,verb,"to manage a difficult situation, especially emotionally","If we could teach children how to cope with difficult situations, they might have better emotional stability throughout their lives.",Magoosh
+527,3,noun,"writing made of normal sentences, not a poem","Don Quixote is often called ""the first modern novel"" in European literature, largely because it was one of the first stories written in prose.",Magoosh
+528,3,verb,to add decoration and detail to make more beautiful,"Late last night, somebody painted cat faces on all the statues that adorn our town's government buildings.",Magoosh
+529,3,adjective,dishonest or not giving the whole truth,"The public could not trust their disingenuous leader, as he was infamous for avoiding direct answers to question in every interview.",Magoosh
+530,3,verb,to save something from the destruction of everything around it,"In order to keep costs down in repairing his car, Stephen salvaged old parts from a local junkyard.",Magoosh
+531,3,adjective,far away,"McMurdo station, an American research facility in Antarctica, is one of the world's most remote settlements.",Magoosh
+532,3,adjective,dark or cloudy and hard to see through,The dirt and debris from the landslide went down the river and turned the previously clear lake a murky brown.,Magoosh
+533,3,verb,to pull back,My pet snail hates me! Every time I try to touch him he retracts his head.,Magoosh
+534,3,adjective,highest in rank or importance,"Regardless of what people think of Michael Jackson today, he was one of the foremost musicians of his time.",Magoosh
+535,3,verb,to grow or spread extremely quickly,"Since the invention of the smartphone, internet access across the world has mushroomed.",Magoosh
+536,3,adjective,happening often without stopping (used for bad things),"Now that they are building a skyscraper next door, the sound of construction is incessant and impossible to escape.",Magoosh
+537,3,adjective,impossible to stop,"As summer nears its end, brown bears eat as much as possible to prepare for the inexorable coming of winter.",Magoosh
+538,3,adjective,"ready or helpful when needed (used with ""not"" to describe problems)","Although our education system is suffering badly from a lack of money, help from the government hasn't been forthcoming.",Magoosh
+539,3,adjective,"very complicated, with many parts (used for abstract things)",Katie was surprised that the process for learning how to code was not nearly as involved as she had anticipated.,Magoosh
+540,3,adjective,mysterious and scary,"As Joel walked through the haunted house, the eerie music made him even more scared than he already was.",Magoosh
+541,3,verb,to lead a change,"After volunteering at a homeless shelter, I decided to spearhead a volunteer program at my office to get more of my coworkers involved.",Magoosh
+542,3,noun,one side or aspect (used for abstract things),"After two years of living abroad, Mario decided that he missed some facets of American food culture, including the variety of restaurant types.",Magoosh
+543,3,verb,to clarify by making less general,"Patrick qualified his love for San Francisco, adding that he didn't like the weather as much as the weather in Los Angeles.",Magoosh
+544,3,verb,to melt slowly after a temperature change,"The ice cream was really hard to scoop, so I left it on the counter to thaw for 30 minutes.",Magoosh
+545,3,verb,"to produce eggs (used for fish, frogs, etc.)","Salmon begin their lives in streams, then swim out to the ocean to spend their lives, but return to the same streams to spawn.",Magoosh
+546,3,noun,serious danger,"Politicians who warn about the great perils we face from other countries will always get attention, even when their warnings aren't based on facts.",Magoosh
+547,3,adjective,"depressing, hopeless; very bad","The month after I lost my job was dismal; I couldn't find work, so I was afraid of not being able to pay rent or buy food.",Magoosh
+548,3,verb,to completely destroy (used for buildings),"The armies of the north poured quickly into the south, stealing food and valuables, setting fires to homes, and razing entire towns.",Magoosh
+549,3,verb,to give abilities to,"The author James Joyce endowed the character Leopold Bloom with patience, humility, and tolerance.",Magoosh
+550,3,verb,to make worse,"The soccer field is already muddy and unfit for play, and another few days of rain will exacerbate the problem even further.",Magoosh
+551,3,verb,to keep a tradition,"Thousands of years after the earth was first proved to be a sphere, some groups today uphold the belief that our planet is actually flat.",Magoosh
+552,3,preposition,in spite of,"High prices notwithstanding, over 70 million iPhones were sold in the last three months.",Magoosh
+553,3,verb,to stick to and not come off,"A fly's feet adhere to most surfaces, giving it the ability to walk upside-down on a ceiling.",Magoosh
+554,3,noun,an enjoyable smell,"As the pie came out of the oven, the aroma of baked apples filled the room.",Magoosh
+555,3,adjective,extremely difficult and tiring,"When my father turned 60, he took a surprising interest in grueling races, sometimes running 150 kilometers in the summer heat.",Magoosh
+556,3,verb,to throw forcefully,"Most people simply drop their pennies in the wishing well, but Jim would insist on hurling his coins into the well, producing a big splash.",Magoosh
+557,3,noun,a natural ability for a specific skill,"I have a knack for remembering faces, but I have a lot of trouble remembering names.",Magoosh
+558,3,verb,to attack without pausing,"Early in World War II, the US rarely attacked Japan's home islands, but after the fall of Okinawa, the Air Force bombarded Japan for months.",Magoosh
+559,3,adjective,willing to be bold in social situations or to take risks,"In my first week of teaching preschool, one especially audacious child tried to cut my hair without even asking.",Magoosh
+560,3,noun,the highest point,"Top athletes in most sports hit the apexes of their careers in their 20s or early 30s, after which health becomes harder to maintain.",Magoosh
+561,3,noun,the visual objects and signs associated with a position or status,"After receiving a meat thermometer as a gift, I realized I was becoming surrounded by the trappings of adulthood.",Magoosh
+562,3,adjective,easy to understand; from clear thinking,"My physics teacher made complex models easy to understand by explaining them with lucid, concrete examples that we could relate to.",Magoosh
+563,3,verb,to trade in a system that doesn't use money,"Because she couldn't afford my tutoring prices, she suggested bartering: she gave me an hour massage for each hour of tutoring.",Magoosh
+564,3,noun,something that starts or speeds up an event,"The death of Archduke Franz Ferdinand, the man who was next in line to rule the Austro-Hungarian Empire, was the catalyst for World War I.",Magoosh
+565,3,verb,to press down; to cause to drop,"A rise in unemployment typically depresses the stock market, because few want to invest in companies that cannot employ people.",Magoosh
+566,3,adjective,suspicious and possibly wrong,I saw a carton of milk with an expiration date so dubious I decided to buy it for fun: it has a date one year from today printed on it.,Magoosh
+567,3,verb,replace someone or something that doesn't fill a role anymore,"As researchers build better robots, we should worry about being supplanted by machines that can do the same things we are paid to do.",Magoosh
+568,3,adjective,unclear,A typical ten-year-old has only a hazy idea of how to manage money and how important it is to do so.,Magoosh
+569,3,verb,to hide when preparing to attack,"Toshio sat quietly in his small boat, terrified of the crocodiles that lurked in the water below.",Magoosh
+570,3,verb,to become much less or many fewer,"Due to repeated overfishing, the numbers of snow crabs have severely dwindled in recent years.",Magoosh
+571,3,adjective,lasting for a very short time,"Roller coasters are thrilling, but the experience is fleeting; most rides take under 90 seconds to complete.",Magoosh
+572,3,noun,a container,"Two-thousand-year-old pots found in Iraq, known as ""Baghdad batteries,"" were probably not actually batteries but instead vessels for important texts.",Magoosh
+573,3,verb,to remove something unwanted from a group,"Because we had 67 applications for the 20 positions on the committee, we began by culling all who clearly lacked even the minimum experience.",Magoosh
+574,3,noun,an untruthful reason given for an action,"As the movie started, Karthik moved slowly closer to Sofia under the pretext of getting more comfortable in his seat.",Magoosh
+575,3,adjective,well combined into one whole,"A well-written, cohesive essay will keep on topic at all times, never losing sight of the main argument.",Magoosh
+576,3,verb,to encourage or stimulate,"In an unwise attempt to spur more intense conversation among his students, Professor Greene assigned a clearly racist text for reading.",Magoosh
+577,3,verb,to want something badly and immediately,"I enjoy coffee once in a while, but my friend craves it: he can't even imagine going a day without it!",Magoosh
+578,3,verb,to flow very slowly,I watched the raindrop trickle down the car window as we sat stopped at a stoplight.,Magoosh
+579,3,verb,to fail to notice,"Although she played perfectly throughout the game, Michelle was overlooked in the celebration of her volleyball team's victory.",Magoosh
+580,3,noun,confidence and enthusiasm within a group of people,The company morale at Yahoo has suffered because of the frequent changes of CEOs.,Magoosh
+581,3,noun,a force pushing forward,I've always been confused by the source of propulsion of giant cargo ships—how can they efficiently move so much weight?,Magoosh
+582,3,adjective,violent and uncontrolled,"Some see the great white shark as a savage animal with a thirst for blood, but as a biologist, I know they are only doing what they must to survive.",Magoosh
+583,3,adjective, making worse; annoying,,Barron
+584,3,noun, something that holds interest and is enjoyable,,Barron
+585,3,adverb, feasibly; believable,,Barron
+586,3,verb, to change from one form or state to another,,Barron
+587,3,adjective, being able to restore to good condition,,Barron
+588,3,adjective, weakening,,Barron
+589,3,adjective, of a certain amount; having an end; not infinite,,Barron
+590,3,noun," the feeling of freedom from danger, doubt, or worry",,Barron
+591,3,adjective, harmful; capable of being fatal,,Barron
+592,3,noun, calm; quietness,,Barron
+593,3,verb," to catch and hold onto, usually by trickery; deceived",,Barron
+594,3,adverb, clearly true,,Barron
+595,3,adjective, guessed lower than the actual quality or quantity,,Barron
+596,3,verb," to know, remember, and accept the existence of something",,Barron
+597,3,verb, to become a part of,,Barron
+598,3,noun, a variety,,Barron
+599,3,noun, the standard of; the degree of goodness,,Barron
+600,3,adjective, made smaller; shortened; merged,,Barron
+601,3,adjective, not agreeing with the facts or previous statements made on the subject; declared wrong,,Barron
+602,3,verb, to pay no attention,,Barron
+603,3,adjective, having much monetary or sentimental value; beautiful,,Barron
+604,3,adjective, famous; having a high position,,Barron
+605,3,adjective, needed for a specific purpose,,Barron
+606,3,verb, to organize; to make clear,,Barron
+607,3,adjective, not clear; ambiguous,,Barron
+608,3,noun, the amount of something contained in a space,,Barron
+609,3,noun, a special quality that endears other people to the person who has this quality,,Barron
+610,3,adjective, intelligent; resourceful,,Barron
+611,3,verb, to make someone see things your way,,Barron
+612,3,verb," to give up; to have something taken away, usually by rule or regulation",,Barron
+613,3,adjective," not safe, firm, or steady",,Barron
+614,3,adjective, extreme; harmful,,Barron
+615,3,adjective, not consistent; irregular,,Barron
+616,3,adjective, excellent quality; above all the rest,,Barron
+617,3,adjective, done without thought or consideration,,Barron
+618,3,adjective, not strong; incapable,,Barron
+619,3,noun, knowledge and understanding,,Barron
+620,3,noun, a joke; a funny story,,Barron
+621,3,verb, to make efforts to attain or gain something,,Barron
+622,3,adverb," short, usually in time",,Barron
+623,3,verb, to cause to move along a fixed path; to move freely,,Barron
+624,3,adverb," without changing; keeping the same principles, ideas, or quality",,Barron
+625,3,verb, to show or demonstrate,,Barron
+626,3,verb," to establish, start up",,Barron
+627,3,adverb, not following established rules; not desirable,,Barron
+628,3,adverb, acting without thinking,,Barron
+629,3,adjective, almost never,,Barron
+630,3,adjective, kept separated from others,,Barron
+631,3,adverb, in a way clearly seen; not done secretly,,Barron
+632,3,adverb, in a deep way; showing deep knowledge of a subject,,Barron
+633,3,adverb, showing sensitivity or quick thinking; showing a quick change in direction,,Barron
+634,3,adjective, being found in a certain place,,Barron
+635,3,adverb, following; coming after something,,Barron
+636,3,adjective, clearly able to be determined,,Barron
+637,3,adjective, being in complete disorder and confusion,,Barron
+638,3,adjective, an easily recognized quality of something,,Barron
+639,3,verb, to give an example,,Barron
+640,3,adjective, giving pleasure or a feeling of accomplishment; showing thanks,,Barron
+641,3,verb, to cause something to begin,,Barron
+642,3,adjective," reasonable, lawful",,Barron
+643,3,adjective, a certain way or thing; unusual; hard to please,,Barron
+644,3,adjective," sending out in all directions, especially heat or light",,Barron
+645,3,noun, the top of a mountain range; a raised part of any surface,,Barron
+646,3,verb, the length of time or distance from one limit to the other; to cross,,Barron
+647,3,adjective, unplanned; uncontrolled,,Barron
+648,3,noun, a natural flow of something; a pouring out,,Barron
+649,3,adverb, having a tendency to do something; likely,,Barron
+650,3,noun, a show or exhibit,,Barron
+651,3,noun, things combined to make something; the contents of something,,Barron
+652,3,adverb, in an unthinking manner; not chosen,,Barron
+653,3,noun, something that surprises or impresses,,Barron
+654,3,adjective, able to determine how much or how many,,Barron
+655,3,adjective," not too much, not too little",,Barron
+656,3,adjective, unusual,,Barron
+657,3,noun, a picture or element cast back,,Barron
+658,3,adverb, according to reports or hearsay; widely believed or accepted,,Barron
+659,3,adjective, continuing in a constant way; remaining strong,,Barron
+660,3,noun, a sign or object that represents something or somebody marks,,Barron
+661,3,noun, the mixing of separate things to form a whole,,Barron
+662,3,adjective, real; that which can be felt,,Barron
+663,3,adverb, being fixed in place; close; leaving no freedom,,Barron
+664,3,article," able to be done, usually refers to something you can do without damage or loss v",,Barron
+665,3,article, to make something impure by adding something dirty or a poisonous substance n v,,Barron
+666,3,article, noticeable; easily seen n v av,,Barron
+667,3,article, active and growing; healthy v,,Barron
+668,3,article, of average quality; not good or bad n,,Barron
+669,3,article, hardly noticeable; scarcelt detectable; to ignore; to give little attention n2 a3 av,,Barron
+670,3,article, being almost of the same type or time; comparable a=v,,Barron
+671,3,article, unusual; uncommon n av,,Barron
+672,3,article, worthy of mention; uncommon,,Barron
+673,3,article, to be spread out or separated widely v,,Barron
+674,3,article," having good quality, being well made; firm; not a gas or liquid n v",,Barron
+675,3,article, a little,,Barron
+676,3,adverb, almost correct; not exact n v=a,,Barron
+677,3,article, difficult; causing worry or fear,,Barron
+678,3,article, the state of being inside when not desired to be there by others n2 v av,,Barron
+679,3,article,"occuring at specific, determind period of time",,Barron
+680,3,article, likely to do something,,Barron
+681,3,article, correctly telling about future events n2 v av,,Barron
+682,3,noun, the relationship of size or importance when compared to another object or person a2 (--> av2),,Barron
+683,3,adverb, in a trusted way n2 v a2,,Barron
+684,3,adverb, unwillingly n a,,Barron
+685,3,noun, fame,,Barron
+686,3,noun, a victory; a success v=n a2,,Barron
+687,3,verb, to restore to life or bring back into memory,,Barron
+688,3,noun," a report of an event; money kept in a bank; a statement of something used or received, usually a financial report n2 v a",,Barron
+689,3,article," very old, old-fashioned, no longer used",,Barron
+690,3,verb, to cause to go faster; move forward more quickly n a av,,Barron
+691,3,article, not moving; not involved n2,,Barron
+692,3,article, having many parts; finely detailed n av,,Barron
+693,3,noun, of great size or importance n v a av,,Barron
+694,3,verb, to have to do sth n a2 av,,Barron
+695,3,noun, questionnaire; a vote of public opinion n2,,Barron
+696,3,article, convenient or effective n,,Barron
+697,3,verb, to cause something to happen; to do quickly; to be on time n av,,Barron
+698,3,verb, to give information or understanding to someone,,Barron
+699,3,verb, to cause or produce negative behavior,,Barron
+700,3,noun, the state of changing one's position,,Barron
+701,3,article, strongly supporting a group or point of view,,Barron
+702,3,noun," a regular, repeated arrangement or action",,Barron
+703,3,noun, natural events or facts; strange or notable n pl a,,Barron
+704,3,article," a feeling of love for people, usually resulting in financial aid to worthy causes n2",,Barron
+705,3,article," quiet, not easy upset",,Barron
+706,3,article, more than sufficient,,Barron
+707,3,noun, a reply; a change that occurs when substances are mixed,,Barron
+708,3,noun," a regular pattern, usually in music a av",,Barron
+709,3,article, concerning pleasant natural surroundings n2 av,,Barron
+710,3,article, protected from harmful elements; isolated from reality n=v,,Barron
+711,3,adjective, going out of sight,,Barron
+712,3,adjective, not far from top to bottom,,Barron
+713,3,verb, to collect,,Barron
+714,3,verb," to highlight, to give more importance to",,Barron
+715,3,verb, to hide the usual appearance of something (n=v) a,,Barron
+716,3,verb, to begin; to establish; to take decisive action without help n2 a,,Barron
+717,3,article, something newly introduced; creative,,Barron
+718,3,verb, to tell a story; relate n3 a=n,,Barron
+719,3,verb," to leave out, not include n a",,Barron
+720,3,article, strange and unpleasant; beyond accepted norms,,Barron
+721,3,adverb, a part of the whole; incomplete a av2,,Barron
+722,3,verb, to accept formally by vote n a,,Barron
+723,3,verb, to represent; to act n,,Barron
+724,3,verb, to update; to make more efficient or concise,,Barron
+725,3,adverb, being old fashioned; no longer in general use,,Barron
+726,3,adjective, being uninterested or not caring about something,,Barron
+727,3,article, being of many different types n4 v a2 av,,Barron
+728,3,article, with no preconceptions,,Barron
+729,3,verb," to think that sth is true, but having no proof n=v n a",,Barron
+730,3,verb," to tell, to show a connection between two things n2 a",,Barron
+731,3,noun, the state of acting against; not being in agreement v a2,,Barron
+732,3,article,"sth unusual, uncommon; new",,Barron
+733,3,adverb," commonly, usually n2 v a",,Barron
+734,3,noun, a careful examination in order to determine facts n a,,Barron
+735,3,verb," to make up, usually with an intent to fool or trick; to lie n a",,Barron
+736,3,article, too old to be presently useful; outmoded n,,Barron
+737,3,verb, to grow; to go through a period of change,,Barron
+738,3,verb, to change in form or appearance,,Barron
+739,3,article," clearly false, without reason n av",,Barron
+740,3,noun, a share; a part set aside for a special purpose; an assignment of portions v a,,Barron
+741,3,article, a state where everything is of the same size or weight,,Barron
+742,3,article, having errors n,,Barron
+743,3,noun, a need for; an insufficient amount,,Barron
+744,3,article," to be stretched, easily shaped",,Barron
+745,3,noun, ways,,Barron
+746,3,article, small from one side to the other; limited n,,Barron
+747,3,noun, an opinion formed in advance without experience or knowledge of something v a,,Barron
+748,3,article," firm, reliable, dependable n",,Barron
+749,3,article, quick n,,Barron
+750,3,adverb," reported, but not confirmed n v a",,Barron
+751,3,article," very small; in form, but not in substance",,Barron
+752,3,verb, to flood n,,Barron
+753,3,adverb, with define purpose and planning n,,Barron
+754,3,adverb, happening immediately; in a short period of time n a,,Barron
+755,3,article, a large amount or quantity; more than reasonable,,Barron
+756,3,adverb," slowly, but surely",,Barron
+757,3,article, proven with written evidence n v a,,Barron
+758,3,adverb," in a careful, polite manner a",,Barron
+759,3,article, to be satisfied; very happy n a,,Barron
+760,3,article, to be said or written in recret n v,,Barron
+761,3,verb, to shake or move; to cause worry,,Barron
+762,3,article, showing serious purpose; one who works carefully and with enthusiasm,,Barron
+763,3,verb, to surround completely; to envelop,,Barron
+764,3,noun, the act of making larger v a,,Barron
+765,3,adverb, by accident; without paying attention; unexpectedly,,Barron
+766,3,article, sth that cannot be prevented from happening n av,,Barron
+767,3,noun, in the beginning stages of development n a,,Barron
+768,3,adverb, done according to a plan a,,Barron
+769,3,article, not probable,,Barron
+770,3,article, without good reason or cause; inappropriate,,Barron
+771,3,noun, the highest point,,Barron
+772,3,verb, to cause to become greater n a,,Barron
+773,3,verb, to find and bring back n a,,Barron
+774,3,verb," to find or discover, usually by chance or mistake",,Barron
+775,3,verb, to copy an action,,Barron
+776,3,verb, to emphasize the part of a greater whole,,Barron
+777,3,verb, to call up or produce memories or feelings; to cause to remember,,Barron
+778,3,adjective, of great importance; extremely necessary,,Barron
+779,3,noun," a very important or famous person, usually associated with a high position in government",,Barron
+780,3,verb, to use completely; to expend all energy; very thorough,,Barron
+781,3,adjective, large in area or number; to offer; to make longer,,Barron
+782,3,verb, to be in the presence of and oppose,,Barron
+783,3,noun, a person or image that is loyally admired or respected,,Barron
+784,3,adjective, to be unaware of or forgetful,,Barron
+785,3,adverb," in a clear, easy-to-understand way",,Barron
+786,3,adjective, causing anger; rude; being unpleasant,,Barron
+787,3,adverb, in a way that foretells future events,,Barron
+788,3,adjective, appropriate; correct; convenient,,Barron
+789,3,adjective, more than enough,,Barron
+790,3,verb, to show little fear or regard for rules or established norms; to change,,Barron
+791,3,adjective, done with persistence and hard work; with attention to details,,Barron
+792,3,verb, to pass a law,,Barron
+793,3,verb, to pretend; make believe,,Barron
+794,3,adjective, able to produce abundantly,,Barron
+795,3,adverb, caught or produced not long ago,,Barron
+796,3,adjective, not chosen carefully; unplanned,,Barron
+797,3,adjective, carefully chosen,,Barron
+798,3,adjective, having a lot of room,,Barron
+799,3,verb, to fight without surrender; to persist,,Barron
+800,3,verb, to obtain something needed or useful; to increase to the amount of something,,Barron
+801,3,verb, to stop or discontinue,,Barron
+802,3,verb, to deal with or control,,Barron
+803,3,verb," to give protection; to not express a desire or opinion, usually bad",,Barron
+804,3,adjective, something that cause pain or damage,,Barron
+805,3,adjective, not important; of little value,,Barron
+806,3,adjective, not easily understood or figured out,,Barron
+807,3,adjective, threatening or risky; harmful,,Barron
+808,3,verb, to encourage or advertise; to elevate in rank or grade,,Barron
+809,3,adjective, being excessive; showing unnecessary repetition,,Barron
+810,3,adjective, important; strongly made; of value,,Barron
+811,3,noun, specific qualities that distinguish one from another,,Barron
+812,3,adjective, primary or principal; having or exercising control over something,,Barron
+813,3,adjective, not growing or producing; asleep,,Barron
+814,3,adjective," lacking color; unintenteresting, boring",,Barron
+815,3,adjective, something that captures the imagination; exciting,,Barron
+816,3,adjective, to select or represent something chosen from many sources or places,,Barron
+817,3,adjective, something with a large number of parts; full of details,,Barron
+818,3,adjective, unusual in a positive way,,Barron
+819,3,adjective," very risky, unsafe",,Barron
+820,3,adjective, of little consequence; very small,,Barron
+821,3,verb, to make ready; first in importance or in time,,Barron
+822,3,adjective, simple; not complex,,Barron
+823,3,adjective, to question the truthfulness of information presented as fact; to nott trust,,Barron
+824,3,adjective, simple; not deeep; near the surface,,Barron
+825,3,adjective," powerful, full of action",,Barron
+826,3,noun, something that makes life easier or more enjoyable,,Barron
+827,3,noun, a part of the whole; environmrnt,,Barron
+828,3,adjective," simple in structurre, easy to do",,Barron
+829,3,verb," to remove, free oneself of something",,Barron
+830,3,verb, to make a circle around,,Barron
+831,3,verb, to make something more than what it is,,Barron
+832,3,verb, to say; relate in written form,,Barron
+833,3,verb, to allow to come out; to give freedom,,Barron
+834,3,adjective, unable to see or understand; to conceal; showing poor judgment or understanding,,Barron
+835,3,verb, to make larger or greater,,Barron
+836,3,verb, growing at a fast pace,,Barron
+837,3,adverb, attracting attention,,Barron
+838,3,adjective, very large,,Barron
+839,3,adverb, completely,,Barron
+840,3,verb, to vanish,,Barron
+841,3,adjective, deserving positive recognition or attention,,Barron
+842,3,verb, to get back; to have something returned,,Barron
+843,3,adverb, to know by report; unconfirmed; supposedly,,Barron
+844,3,adjective, to be subject to influence; capable of being affected by a person or thing,,Barron
+845,3,verb, to make more easily understood; to make clear,,Barron
+846,3,verb, to prevent from being seen or discovered,,Barron
+847,3,verb, to make certain; give support,,Barron
+848,3,adjective, easy to reach; near; suitable to one's needs,,Barron
+849,3,adjective, very serious or unsafe; finding fault,,Barron
+850,3,adverb," to happen at some time in the future, usually gradually",,Barron
+851,3,adjective," successful, wealthy",,Barron
+852,3,adverb, done for a special reason,,Barron
+853,3,verb, to uncover; to expose,,Barron
+854,3,adverb, almost not,,Barron
+855,3,adverb," according to a reasoned, but not proven, point of view",,Barron
+856,3,verb, to go faster,,Barron
+857,3,verb, to move slowly and quietly close to the ground; to begin to happen,,Barron
+858,3,verb, to press together so as to completely distort the shape or nature of the object,,Barron
+859,3,verb, to plan and raise a crop; to encourage growth of a relationship or friendship,,Barron
+860,3,verb, to state demands with the power to enforce,,Barron
+861,3,verb," to hear, see, or recognize differences",,Barron
+862,3,verb, to cause something new to exist; to create,,Barron
+863,3,verb, to become completely occupied or involved,,Barron
+864,3,noun, a small sign of damage that makes an item imperfect,,Barron
+865,3,noun, the act of collecting a crop; the crops gathered,,Barron
+866,3,verb," to show, as in a mirror",,Barron
+867,3,noun, a very small piece of something,,Barron
+868,3,verb, to establish a home; to resolve a disagreement,,Barron
+869,3,verb, to move from one place to another,,Barron
+870,3,verb, to place into groups according to type,,Barron
+871,3,noun, monetary unit; cash,,Barron
+872,3,adjective, far below the surface; complete understanding,,Barron
+873,3,adjective, closely packed or crowded; difficult to see though,,Barron
+874,3,adjective, not bright or clear,,Barron
+875,3,verb, to show; reveal,,Barron
+876,3,noun, products sold abroad,,Barron
+877,3,adjective, very large,,Barron
+878,3,adjective," causing admiration because of an object's importance, size, or quality",,Barron
+879,3,verb, to set up or create an office; to place in a fixed position,,Barron
+880,3,adjective, forever; without end,,Barron
+881,3,adjective, easy to understand; simple; honest,,Barron
+882,3,adjective, every part being the same,,Barron
+883,3,adjective, lively; powerful; full of action; bright,,Barron
+884,3,adjective," an action or decision made with little thought, order, or reason",,Barron
+885,3,verb, to express or defend oneself strongly; to state positively,,Barron
+886,3,adjective, very surprising,,Barron
+887,3,verb, to have the same opinion or draw the same conclusion,,Barron
+888,3,adverb, making something appear true or good when it is false or bad,,Barron
+889,3,verb," to specify, name, or select to do to a task; to indicate",,Barron
+890,3,adjective," strong in one's opinion, firm in conviction, to find out",,Barron
+891,3,verb, to cause a conflict or argument,,Barron
+892,3,verb, to make a request,,Barron
+893,3,verb, to give up control,,Barron
+894,3,adjective, strong enough to recover from difficulty or disease,,Barron
+895,3,verb," to make it attractive to do something, usually something not good",,Barron
+896,3,verb," to produce, to carry; to show; to endure",,Barron
+897,3,verb, to make something difficult to see,,Barron
+898,3,adjective, intensely bright or colorful; intelligent,,Barron
+899,3,verb," to alert someone of danger, warn someone to take care or pay attention to something",,Barron
+900,3,adjective," needing careful treatment; sensitive, easily broken",,Barron
+901,3,verb," to increase in a positive way, such as in value, power, or beauty",,Barron
+902,3,preposition," ph  in addition to, alongside",,Barron
+903,3,verb, to interest greatly,,Barron
+904,3,verb," to prevent movement, progress, or success",,Barron
+905,3,verb, to change a belief or behavior by argument or reason,,Barron
+906,3,verb, to throw off naturally; to give out,,Barron
+907,3,adjective, to be the only one of a kind; special,,Barron
+908,3,adjective, to be complementary or appropriate; a good match,,Barron
+909,3,adverb, the most important or most common,,Barron
+910,3,adjective, not fine or smooth; not delicate,,Barron
+911,3,adjective, ordinary,,Barron
+912,3,adverb, being measured or judged by comparison,,Barron
+913,3,adjective, following accepted rules or standards,,Barron
+914,3,adjective, odd or strange; eager to learn,,Barron
+915,3,adverb, very; to an unusual degree,,Barron
+916,3,adverb, no one else; nothing else; not shared,,Barron
+917,3,adjective, extremely large,,Barron
+918,3,adverb, regularly; usually done,,Barron
+919,3,adverb, enough; in a satisfying manner,,Barron
+920,3,adverb, can be seen,,Barron
+921,3,adverb, to or in another country,,Barron
+922,3,adjective, allowable or satisfactory,,Barron
+923,3,noun, enthusiastic approval; applause,,Barron
+924,3,adverb," being in existence, real or factual",,Barron
+925,3,noun, a recommendation,,Barron
+926,3,adjective, calling attention to; pleasing; creating,,Barron
+927,3,adjective, by itself; with no association,,Barron
+928,3,noun, the act of disagreeing; not giving approval,,Barron
+929,3,adjective, causing confusion and interruption,,Barron
+930,3,adverb, having no order or pattern; by chance,,Barron
+931,3,verb," to remove, take out, or take back",,Barron
+932,3,noun, something that may help one to be successful or to gain something,,Barron
+933,3,adjective, able to move in a quick and easy way,,Barron
+934,3,conjunction," in spite of the fact, regardless of the fact",,Barron
+935,3,adjective, attractive or interesting,,Barron
+936,3,verb, to hit one object against another with violent force; to be in opposition,,Barron
+937,3,adjective," modern, up-to-date, or (n ) person living at the same time as another person",,Barron
+938,3,verb," to promote, help, or support",,Barron
+939,3,adjective," full of life, action, or power",,Barron
+940,3,adjective, weak in health or in body,,Barron
+941,3,noun, an invented story or idea,,Barron
+942,3,verb, to make pure; to improve,,Barron
+943,3,adjective, value in doing something,,Barron
+944,3,verb, to change or make different,,Barron
+945,3,adjective, something from a long time ago; very old,,Barron
+946,3,adjective, a slight bother; disturbing to a person,,Barron
+947,3,verb, to think about or prepare for something ahead of time,,Barron
+948,3,verb, to make rich; to make something of greater value,,Barron
+949,3,verb, to make stronger in feeling or quality,,Barron
+950,3,adjective, difficult or painful to experience; not able to accept different ways of thought or behavior,,Barron
+951,3,adjective, continuing,,Barron
+952,3,verb, to suggest or plan to do something,,Barron
+953,3,verb, to give back or bring back something; to return to the original condition,,Barron
+954,3,adjective, of great importance; full of life,,Barron
+955,3,adjective,something that contains acid or tastes sour.,,Quizlet
+956,3,adjective,relating to or resembling the universe.,,Quizlet
+957,3,verb,to make something thinner by adding water or other solvent; to weaken something.,,Quizlet
+958,3,verb,a steady movement of a liquid/gas/electricity.,,Quizlet
+959,3,verb,to cover something in a way that stops heat and sound from escaping.,,Quizlet
+960,3,adjective,"attractive to oppositely charged materials, and repellent to the same charge.",,Quizlet
+961,3,noun,a chemical used to kill animals or plants considered pests.,,Quizlet
+962,3,noun,the field science that study various medical substances.,,Quizlet
+963,3,noun,"a generalized term for dealing with mental health issues through consultation with a psychiatrist, psychologist, or other mental health professionals.",,Quizlet
+964,3,verb,"to bounce light or sound off, like a mirror.",,Quizlet
+965,3,noun,a small part of a whole presented as a representative specimen.,,Quizlet
+966,3,noun,the science of society and human social interactions.,,Quizlet
+967,3,noun,"something with particular qualities that define it. it can be liquid, solid or gas.",,Quizlet
+968,3,noun,the ability to see or the faculty of sight; the act of looking or seeing something.,,Quizlet
+969,3,noun,a science that studies all aspect of humanity. it focuses on culture but involves biology as well.,,Quizlet
+970,3,adjective,referring to something related to bacteria.,,Quizlet
+971,3,adjective,"relating to botany, the science of plants.",,Quizlet
+972,3,noun,"the science of plants. it deals with the structure, classification, and other specificities regarding plant life.",,Quizlet
+973,3,noun,the total greenhouse gas emissions caused by all the activities of a person or entity.,,Quizlet
+974,3,adjective,capable of eroding and destroying other sustances.,,Quizlet
+975,3,noun,unit for measuring capacity of liquid equal to a hundredth of a liter.,,Quizlet
+976,3,noun,small drops of water that form on a cold surface when it comes into contact with heat.,,Quizlet
+977,3,verb,to chemically erode or damage a metal.,,Quizlet
+978,3,noun,a liquid turning into gas.,,Quizlet
+979,3,adjective,using water to power electricity.,,Quizlet
+980,3,noun,one thousand watts of electric energy.,,Quizlet
+981,3,noun,the distance that light goes over the course of a year; a very long distance.,,Quizlet
+982,3,verb,to turn solid matter into a liquid state.,,Quizlet
+983,3,noun,any process or action that changes an organism.,,Quizlet
+984,3,noun,"a cosmic body consisted of cosmic dust and gas, usually visible during the night as a bright spot.",,Quizlet
+985,3,noun,"a constant value in experimenting, solving equations, etc., but varied in other versions of said experimenting or equation-solving.",,Quizlet
+986,3,noun,a body suspended from a fixed support that swings freely.,,Quizlet
+987,3,verb,to completely fill with a substance.,,Quizlet
+988,3,noun,a point in time when the earth is at the extreme of its ellipsis around the sun.,,Quizlet
+989,3,noun,the gas created by burning carbon or when an animal or person breathes out.,,Quizlet
+990,3,noun,the act of assigning something to a specific category.,,Quizlet
+991,3,noun,a chemical mixture combining two or more elements.,,Quizlet
+992,3,verb,"to break down, rot or decompose.",,Quizlet
+993,3,noun,physical or verbal factual information used to determine whether something is true or false.,,Quizlet
+994,3,noun,a process in which something or someone develops and progresses.,,Quizlet
+995,3,verb,to investigate and analyze a topic or an area that is unfamiliar in order to gain knowledge.,,Quizlet
+996,3,noun,the study of the physical properties of the earth.,,Quizlet
+997,3,adjective,pertaining to a pole or polarity.,,Quizlet
+998,3,noun,physical force.,,Quizlet
+999,3,noun,a vessel that travels into space and returns.,,Quizlet
+1000,3,adjective,"relating to heat, the cause of heat, or the retention of heat.",,Quizlet
+1001,3,noun,a photograph taken using beams of radiation that allows you to examine the bones and organs inside a body.,,Quizlet
+1002,3,noun,microscopic single-celled organisms with cell walls; plural of bacterium.,,Quizlet
+1003,3,noun,unit of length measurement equal to one-hundredth of a meter.,,Quizlet
+1004,3,noun,an unchanging value or answer that is used as a reference in experiments.,,Quizlet
+1005,3,noun,"the name given to the third planet from the sun in the solar system, inhabited by humans.",,Quizlet
+1006,3,noun,one's applied knowledge of physical sciences to design and build technology for social improvement.,,Quizlet
+1007,3,noun,"a scientific test in controlled conditions used to investigate a hypothesis, prove a known fact, or make a discovery.",,Quizlet
+1008,3,noun,energy caused by using physical strength.,,Quizlet
+1009,3,verb,"to provide something with energy, power, or heat.",,Quizlet
+1010,3,adjective,not showing any evidence of positive result or condition,,Quizlet
+1011,3,adjective,relating to an atom's nucleus or the energy produced by splitting or joining the nucleus.,,Quizlet
+1012,3,noun,"a branch of science concerned with matters of space, time, matter, and energy.",,Quizlet
+1013,3,noun,electrical energy that households run on.,,Quizlet
+1014,3,noun,a way in which living creatures see the physical world.,,Quizlet
+1015,3,noun,a value of measurement with regard to how heavy the subject is.,,Quizlet
+1016,3,adjective,describing something related to outer space.,,Quizlet
+1017,3,verb,to transition matter from a liquid to a solid state.,,Quizlet
+1018,3,noun,"a set pattern, typically denoting stars.",,Quizlet
+1019,3,noun,a process where its components spread into an environment.,,Quizlet
+1020,3,noun,a process that isolates a substance from a mixture by evaporation and condensation,,Quizlet
+1021,3,noun,an organism created by combining or crossing two species.,,Quizlet
+1022,3,adjective,not being pure or clean because some other substance has been mixed in.,,Quizlet
+1023,3,adjective,"having a connection to a moon, usually the one orbiting earth.",,Quizlet
+1024,3,noun,an object that exerts a specific type of physical force by moving electrical charges.,,Quizlet
+1025,3,noun,"a study of form and structure in many different disciplines, such as linguistic, biology, geology, and mathematics.",,Quizlet
+1026,3,noun,the branch of medicine that relates to the human nervous system.,,Quizlet
+1027,3,noun,the branch of medicine that specializes in childbirth and antenatal and posnatal medical care.,,Quizlet
+1028,3,noun,a branch of science concerned with fossils of animals and plants.,,Quizlet
+1029,3,verb,to change the direction of a light ray through an angled surface.,,Quizlet
+1030,3,adjective,can be dissolved.,,Quizlet
+1031,3,noun,"a liquid that can dissolve a solid, liquid, or gaseous solute.",,Quizlet
+1032,3,noun,a poisonous substance.,,Quizlet
+1033,3,noun,an astrological system that connects events in space to what happens on earth.,,Quizlet
+1034,3,noun,"hydroxides of sodium and potassium, a term used in chemistry.",,Quizlet
+1035,3,noun,an instrument used for measuring or recording atmospheric pressure changes.,,Quizlet
+1036,3,adjective,relating to having net-zero greenhouse gas emissions.,,Quizlet
+1037,3,noun,the process of chemical erosion or damage to metal.,,Quizlet
+1038,3,noun,"denoting the universe, usually seen as an ordered place.",,Quizlet
+1039,3,verb,to isolate a substance from a mixture by evaporating and condensing it.,,Quizlet
+1040,3,noun,"the event where astronomical objects align, obscuring the view of one or the other.",,Quizlet
+1041,3,noun,the process of using trial and error to determine or reach a particular outcome.,,Quizlet
+1042,3,noun,a young unborn offspring (usually a mammal).,,Quizlet
+1043,3,noun,the act of creating or preparing something.,,Quizlet
+1044,3,noun,"a branch of medicine that specializes in medical problems of women, particularly involving the reproductive system.",,Quizlet
+1045,3,adjective,doesn't produce a chemical reaction when combined with another substance.,,Quizlet
+1046,3,adjective,lacking bounds or going on forever.,,Quizlet
+1047,3,noun,a detailed written study of a single specialized subject.,,Quizlet
+1048,3,noun,the study of the people's eyes.,,Quizlet
+1049,3,noun,a branch of biology concerned with the functions of life and the living.,,Quizlet
+1050,3,adjective,relating to air or other gases.,,Quizlet
+1051,3,adjective,to describe a genetic trait that is not expressed unless two copies of the gene are inherited from each parent.,,Quizlet
+1052,3,adjective,containing salt.,,Quizlet
+1053,3,noun,a collection of particles that settles to the bottom of a fluid.,,Quizlet
+1054,3,noun,a range of colors formed when light is dispersed.,,Quizlet
+1055,3,adjective,one that does not contain lead or is not coated with lead.,,Quizlet
+1056,3,noun,a creature from outer space.,,Quizlet
+1057,3,noun,a science analyzing life and living organisms.,,Quizlet
+1058,3,noun,someone or something that is an identical copy of another.,,Quizlet
+1059,3,adjective,very modern and advanced; pioneering.,,Quizlet
+1060,3,verb,to combine something with a liquid until both substances unify.,,Quizlet
+1061,3,noun,act of sending out gas/heat/light.,,Quizlet
+1062,3,adjective,"using ideas, methods, and theories to find out a result.",,Quizlet
+1063,3,noun,an amount of gas that is strong smelling and dangerous to inhale.,,Quizlet
+1064,3,noun,an instrument used for examining small objects which could not be seen with the naked eye.,,Quizlet
+1065,3,noun,an organelle that contains the genetic material in the cell.,,Quizlet
+1066,3,noun,a machine that is used to make measurements.,,Quizlet
+1067,3,noun,"a mixture, usually liquid, in which one or more substances are dissolved in another.",,Quizlet
+1068,3,noun,cylindrical device for looking at objects that are far away.,,Quizlet
