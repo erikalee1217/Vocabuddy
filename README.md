@@ -38,7 +38,7 @@ To set up the project locally:
 4. **Frontend setup:**
     
     ```bash
-    cd ../frontend
+    cd ../react
     npm install
     npm start
    ```
