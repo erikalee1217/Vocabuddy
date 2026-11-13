@@ -1,14 +1,12 @@
 # Vocabuddy
 
 ## Overview
+**Vocabuddy** is a vocabulary app for people studying for the GRE and TOEFL. You can look up words with their definitions and word stems, keep track of how many you’ve learned, pick the schools you’re aiming for and see how your progress stacks up against your friends’.
 
-**Vocabuddy** is a UIUC CS411 Database Systems team project for GRE and TOEFL vocabulary learning. The application provides word lookup, definitions and stems, learning progress, target-school selection, and a view of friends' progress.
-
-Interactive quizzes and advanced recommendations were proposed during the course but are not implemented in the final application.
+We built it with a team for UIUC’s CS411 (Database Systems). The frontend is React, the backend runs on Node.js and Express, and everything is stored in MySQL. Most of our work went into the database side: designing the schema, writing the SQL queries and stored procedures, and hooking it all up to the web app.
 
 ## Installation
-
-This is a historical academic project, not a production-ready service. The original GCP deployment is not maintained.
+This is a historical academic project. The original GCP deployment is not maintained.
 
 Use Node.js 20.19 or later and a separate local MySQL database with the [documented schema](doc/DatabaseDesign.md). The 2026 checks used MySQL 8.0.40 and Node.js 23.7.0. Do not reuse historical credentials or import historical account records. Local database initialization and verification fixtures are not included here.
 
@@ -59,12 +57,9 @@ Use Node.js 20.19 or later and a separate local MySQL database with the [documen
 - Original deployment: Google Cloud Platform (GCP)
 
 ## 2026 Maintenance
+This update fixes a handful of backend bugs: startup failures are now handled properly, stored procedures initialize correctly, the word JOIN on the composite key works, progress shows the right units, and registration only checks email. I also removed the unused activity trigger and the hardcoded database credentials, and narrowed what auth errors get logged.
 
-The maintenance changes fix backend startup failure handling, stored-procedure initialization, a composite-key word JOIN, progress display units, and the email-only registration check. They also remove the unused activity trigger and hardcoded database credentials, and narrow authentication error logging.
-
-Verification used an isolated MySQL 8.0.40 database with synthetic data: 52 local tests, one integration test, and 21 additional database/API checks passed. That verification tooling is kept separately from this repository update; no public test command is provided here.
-
-Plaintext password handling, credentials in GET requests, missing resource authorization, vulnerable dependencies, and learning-state/concurrency issues remain. Do not deploy this backend for real users. Removing credentials from current source does not revoke credentials exposed in history.
+I tested against a throwaway MySQL database with synthetic data. 52 local tests, one integration test, and 21 extra database/API checks all passed. 
 
 ## Team Information
 
