@@ -4,7 +4,7 @@ import axios from 'axios';
 import { formatDistanceToNow, parseISO } from 'date-fns';
 import { word_progress, word } from '../../Types';  // Ensure your School type has a non-optional SchoolId of type number
 
-axios.defaults.baseURL = 'http://35.208.70.236/';
+axios.defaults.baseURL = process.env.REACT_APP_API_URL || 'http://127.0.0.1:3001/';
 
 
 function Study() {

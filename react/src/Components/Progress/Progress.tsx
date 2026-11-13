@@ -5,7 +5,7 @@ import { Box, Typography, Paper, Grid, List, ListItem, ListItemText, ToggleButto
 import { formatDistanceToNow, parseISO } from 'date-fns';
 import { recent, least, progress } from '../../Types';
 
-axios.defaults.baseURL = 'http://35.208.70.236/';
+axios.defaults.baseURL = process.env.REACT_APP_API_URL || 'http://127.0.0.1:3001/';
 
 function Progress() {
   const [activeTest, setActiveTest] = useState<string>('GRE'); // 'GRE' or 'TOEFL'
@@ -65,7 +65,7 @@ function Progress() {
                 <React.Fragment key={index}>
                   
                   <Typography component="span" color="primary">
-                    Progress: {test.Progress}%
+                    Progress: {Math.round(Number(test.Progress) * 10000) / 100}%
                   </Typography>
                   {index < progressPercentage.length - 1 && <br />}
                 </React.Fragment>

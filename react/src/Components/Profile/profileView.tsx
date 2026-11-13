@@ -5,7 +5,7 @@ import axios from 'axios';
 import { useNavigate } from 'react-router-dom'; // Import useNavigate for navigation
 
 // Axios base URL setup (better to configure in a centralized Axios setup file)
-axios.defaults.baseURL = 'http://35.208.70.236/';
+axios.defaults.baseURL = process.env.REACT_APP_API_URL || 'http://127.0.0.1:3001/';
 
 const UserDetailsView: React.FC = () => {
     const [user, setUser] = useState<any>(null);
