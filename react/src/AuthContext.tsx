@@ -3,7 +3,7 @@ import axios from 'axios'; // Import Axios
 
 import { AuthContextType } from './Types'
 
-axios.defaults.baseURL = 'http://35.208.70.236/';
+axios.defaults.baseURL = process.env.REACT_APP_API_URL || 'http://127.0.0.1:3001/';
 
 const AuthContext = createContext<AuthContextType | undefined>(undefined);
 
@@ -18,14 +18,13 @@ export const AuthProvider: React.FC<AuthProviderProps> = ({ children }) => {
     const login = async (email: string, password: string) => {
         try {
             const response = await axios.get('/api/User/auth', { params: { Email: email, Password: password }});
-            console.log(response.data[0])
             if (response.data[0]) {
                 setUser(response.data);
                 setIsLoggedIn(true);
                 sessionStorage.setItem('user', JSON.stringify(response.data));
             }
         } catch (error) {
-            console.error("Login failed:", error);
+            console.error("Login failed.");
             // Handle errors (e.g., incorrect credentials, no network access)
         }
     };

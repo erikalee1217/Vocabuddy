@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node ./bin/www"
+    "start": "node server.js"
   },
   "dependencies": {
     "body-parser": "^1.20.2",
@@ -14,6 +14,10 @@
     "http-errors": "~1.6.3",
     "morgan": "~1.9.1",
     "mysql2": "^3.9.4",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "cors": "2.8.5"
+  },
+  "engines": {
+    "node": ">=20.19.0"
   }
 }

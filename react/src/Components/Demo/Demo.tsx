@@ -3,7 +3,7 @@ import axios from 'axios';
 import { TextField, Button, Box, Paper, Typography, Grid } from '@mui/material';
 import { email_query, word } from '../../Types'
 
-axios.defaults.baseURL = 'http://35.208.70.236/';
+axios.defaults.baseURL = process.env.REACT_APP_API_URL || 'http://127.0.0.1:3001/';
 
 const Demo: React.FC = () => {
     const [email, setEmail] = useState('');
@@ -48,7 +48,7 @@ const Demo: React.FC = () => {
             });
             setResultUser(response.data);
         } catch (error) {
-            console.error('Error creating user:', error);
+            console.error('Account creation failed.');
         }
     };
 

@@ -5,7 +5,7 @@ import { Box, Typography, Card, CardContent, Chip } from '@mui/material';
 
 import { word } from '../../Types'
 
-axios.defaults.baseURL = 'http://35.208.70.236/';
+axios.defaults.baseURL = process.env.REACT_APP_API_URL || 'http://127.0.0.1:3001/';
 
 const Word = () => {
   const { testId, wordId } = useParams<{ testId: string, wordId: string }>();

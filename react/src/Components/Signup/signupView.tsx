@@ -4,7 +4,7 @@ import { Typography, Alert, Box, TextField, Button, Paper, Grid } from '@mui/mat
 import { useAuth } from '../../AuthContext';
 
 import axios from 'axios';
-axios.defaults.baseURL = 'http://35.208.70.236/';
+axios.defaults.baseURL = process.env.REACT_APP_API_URL || 'http://127.0.0.1:3001/';
 
 const SignUpView: React.FC = () => {
     const navigate = useNavigate();
@@ -28,7 +28,7 @@ const SignUpView: React.FC = () => {
                     JoinedTime: new Date().toISOString().slice(0, 19).replace('T', ' '), TargetSchoolId: targetSchoolId
                 });
             } catch (error) {
-                console.error('Error creating user:', error);
+                console.error('Account creation failed.');
             }
             
             await login(email, password);

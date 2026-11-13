@@ -3,14 +3,9 @@ const cors = require('cors')
 var bodyParser = require('body-parser');
 var mysql = require('mysql2');
 var path = require('path');
-var connection = mysql.createConnection({
-                host: '35.238.91.109',
-                user: 'root',
-                password: 'team080',
-                database: 'vocab'
-});
-
-connection.connect;
+const { database, port, host } = require('./config').loadConfig();
+var connection = mysql.createConnection(database);
+const startupQueries = [];
 
 var app = express();
 
@@ -38,12 +33,7 @@ app.get('/not-implemented', function(req, res) {
 // Output: Friends' Email, School Name, Ranking, Tests, Progress
 var dropProcedure = 'DROP PROCEDURE IF EXISTS GetUserDetails';
 
-connection.query(dropProcedure, (err, results) => {
-  if (err) {
-    console.error('Error dropping existing procedure:', err);
-    return;
-  }
-});
+startupQueries.push({ stage: 'drop GetUserDetails', sql: dropProcedure });
 
 var sqlProcedure = `
   CREATE PROCEDURE GetUserDetails(IN UserEmail VARCHAR(255))
@@ -69,17 +59,17 @@ var sqlProcedure = `
     END IF;
   END`;
 
+startupQueries.push({ stage: 'create GetUserDetails', sql: sqlProcedure });
+
 app.get('/api/User', function(req, res) {
   var Email = req.query.Email;
-
-  console.log(Email)
 
   var sql = 'CALL GetUserDetails(?)';
 
   connection.query(sql, [Email], function(err, results) {
     if (err) {
-      console.error('Error fetching data:', err);
-      res.status(500).send({ message: 'Error fetching data', error: err });
+      console.error('Error fetching data:', err.code);
+      res.status(500).send({ message: 'Error fetching data', error: err.code });
       return;
     }
     res.json(results);
@@ -93,14 +83,12 @@ app.get('/api/Word', function(req, res) {
   var WordId = req.query.WordId;
   var TestId = req.query.TestId;
 
-  console.log(WordId, TestId)
-
   var sql = ' SELECT Word, PartOfSpeech, Description, Stem, Example, Source FROM Meaning LEFT JOIN Words ON Meaning.WordId = Words.WordId AND Meaning.TestId = Words.TestId WHERE Words.WordId = ? AND Words.TestId = ?';
 
   connection.query(sql, [WordId, TestId], function(err, results) {
     if (err) {
-      console.error('Error fetching data:', err);
-      res.status(500).send({ message: 'Error fetching data', error: err });
+      console.error('Error fetching data:', err.code);
+      res.status(500).send({ message: 'Error fetching data', error: err.code });
       return;
     }
     res.json(results);
@@ -115,11 +103,11 @@ app.get('/api/search/Word', function(req, res) {
 
   var sql = 'SELECT DISTINCT Word, Words.WordId, Words.TestId, Stem FROM Meaning LEFT JOIN Words ON Meaning.WordId = Words.WordId AND Meaning.TestId = Words.TestId WHERE Words.Word LIKE ? ORDER BY Words.Word LIMIT 10;';
 
-  console.log(Word, sql)
+
   connection.query(sql, [Word], function(err, results) {
     if (err) {
-      console.error('Error fetching data:', err);
-      res.status(500).send({ message: 'Error fetching data', error: err });
+      console.error('Error fetching data:', err.code);
+      res.status(500).send({ message: 'Error fetching data', error: err.code });
       return;
     }
     res.json(results);
@@ -129,12 +117,7 @@ app.get('/api/search/Word', function(req, res) {
 // Create a new user with the provided detail (using Stored Procedure + Transaction)
 var dropProcedure = 'DROP PROCEDURE IF EXISTS CreateUserIfNotExists';
 
-connection.query(dropProcedure, (err, results) => {
-  if (err) {
-    console.error('Error dropping existing procedure:', err);
-    return;
-  }
-});
+startupQueries.push({ stage: 'drop CreateUserIfNotExists', sql: dropProcedure });
 
 var createProcedureQuery = `
   CREATE PROCEDURE CreateUserIfNotExists(
@@ -155,8 +138,8 @@ var createProcedureQuery = `
     START TRANSACTION;
 
     SELECT EXISTS(
-      SELECT 1 FROM User u JOIN School s ON u.TargetSchoolId = s.SchoolId
-      WHERE u.Email = p_Email AND s.SchoolId = p_TargetSchoolId
+      SELECT 1 FROM User u
+      WHERE u.Email = p_Email
     ) INTO userExists;
 
     IF NOT userExists THEN
@@ -167,17 +150,10 @@ var createProcedureQuery = `
     COMMIT;
   END`;
 
-connection.query(createProcedureQuery, (createProcedureErr) => {
-  if (createProcedureErr) {
-    console.error('Error creating stored procedure:', createProcedureErr);
-    return;
-  }
-});
+startupQueries.push({ stage: 'create CreateUserIfNotExists', sql: createProcedureQuery });
 
 app.post('/api/User/new', (req, res) => {
   var { Email, Password, FirebaseUID, Username, FirstName, LastName, JoinedTime, TargetSchoolId } = req.body;
-
-  console.log(Email, Password, FirebaseUID, Username, FirstName, LastName, JoinedTime, TargetSchoolId);
 
   FirebaseUID = FirebaseUID === undefined ? null : FirebaseUID;
   Username = Username === undefined ? null : Username;
@@ -189,12 +165,12 @@ app.post('/api/User/new', (req, res) => {
   var sql = 'CALL CreateUserIfNotExists(?, ?, ?, ?, ?, ?, ?, ?)';
   connection.query(sql, [Email, Password, FirebaseUID, Username, FirstName, LastName, JoinedTime, TargetSchoolId], (err, results) => {
   if (err) {
-    console.error('Error execution', err);
+    console.error('Error execution', err.code);
     connection.query('ROLLBACK;', (rollbackErr) => {
       if (rollbackErr) {
-        console.error('Error rolling back transaction:', rollbackErr);
+        console.error('Error rolling back transaction:', rollbackErr.code);
       }
-      res.status(500).send({ message: 'Error creating user', error: err });
+      res.status(500).send({ message: 'Error creating user', error: err.code });
     });
   } else {
     res.redirect('/success');
@@ -207,14 +183,12 @@ app.post('/api/User/modify', function(req, res) {
   var Email= req.body.Email;
   var newSchoolId = req.body.TargetSchoolId;
 
-  console.log(Email, newSchoolId);
-
   var sql = 'UPDATE User SET TargetSchoolId = ? WHERE Email = ?';
 
   connection.query(sql, [newSchoolId, Email], function(err, result) {
     if (err) {
-      console.error('Error modifying record:', err);
-      res.status(500).send({ message: 'Error modifying record', error: err });
+      console.error('Error modifying record:', err.code);
+      res.status(500).send({ message: 'Error modifying record', error: err.code });
       return;
     }
     if(result.affectedRows === 0) {
@@ -225,49 +199,18 @@ app.post('/api/User/modify', function(req, res) {
   });
 });
 
-// Retrieve friends of a user and their last active time and progress (using Trigger)
+// Retrieve friends of a user and their last active time and progress (derived from learning records)
 // Input: Email
 // Output: Friends' Email, Last Active Time, Progress for Each Test
-var dropTriggerSQL = 'DROP TRIGGER IF EXISTS UpdateLastActiveTime';
-
-connection.query(dropTriggerSQL, (err, result) => {
-  if (err) {
-      console.error('Error dropping existing trigger:', err);
-      return;
-  }
-});
-
-var sqlTrigger = `
-  CREATE TRIGGER UpdateLastActiveTime
-  AFTER INSERT ON Learns
-  FOR EACH ROW
-  BEGIN
-    IF NEW.PercentLearned > 50 THEN
-      UPDATE IsFriendWith
-      SET LastActiveTime = NEW.LastLearnedTime
-      WHERE FriendEmail = NEW.Email;
-    END IF;
-  END`;
-
-connection.query(sqlTrigger, (err, results) => {
-    if (err) {
-      console.error('Error creating trigger:', err);
-      return;
-    }
-    console.log('Trigger created successfully');
-});
-
 app.get('/api/IsFriendWith', function(req, res) {
   var Email= req.query.Email;
-
-  console.log(Email)
 
   var sql = 'SELECT FriendEmail, LastActiveTime, TestId, Progress FROM IsFriendWith LEFT JOIN (SELECT Email, MAX(LastLearnedTime) AS LastActiveTime FROM Learns GROUP BY Email) p ON p.Email = IsFriendWith.FriendEmail LEFT JOIN (SELECT Email, TestId, AVG(PercentLearned) AS Progress FROM Learns GROUP BY Email, TestId) pp ON pp.Email = IsFriendWith.FriendEmail WHERE IsFriendWith.Email = ?';
 
   connection.query(sql, [Email], function(err, results) {
     if (err) {
-      console.error('not-implemented', err);
-      res.status(500).send({ message: 'not-implemented', error: err });
+      console.error('not-implemented', err.code);
+      res.status(500).send({ message: 'not-implemented', error: err.code });
       return;
     }
     res.json(results);
@@ -280,14 +223,12 @@ app.get('/api/IsFriendWith', function(req, res) {
 app.get('/api/Words/random', function(req, res) {
   var TestId = req.query.TestId;
 
-  console.log(TestId)
-
-  var sql = 'SELECT Word, PartOfSpeech, Description, Stem, Example, Source FROM Meaning LEFT JOIN Words ON Meaning.WordId = Words.WordId WHERE Meaning.TestId = ? ORDER BY RAND() LIMIT 1';
+  var sql = 'SELECT Word, PartOfSpeech, Description, Stem, Example, Source FROM Meaning LEFT JOIN Words ON Meaning.WordId = Words.WordId AND Meaning.TestId = Words.TestId WHERE Meaning.TestId = ? ORDER BY RAND() LIMIT 1';
 
   connection.query(sql, [TestId], function(err, results) {
     if (err) {
-      console.error('not-implemented', err);
-      res.status(500).send({ message: 'not-implemented', error: err });
+      console.error('not-implemented', err.code);
+      res.status(500).send({ message: 'not-implemented', error: err.code });
       return;
     }
     res.json(results);
@@ -301,17 +242,15 @@ app.get('/api/User/auth', function(req, res) {
   var Email = req.query.Email;
   var Password = req.query.Password;
 
-  console.log(Email, Password);
-
   var sql = 'SELECT Email, Username, FirstName, LastName, JoinedTime, TargetSchoolId FROM User WHERE Email = ? AND Password = ?';
 
   connection.query(sql, [Email, Password], function(err, results) {
     if (err) {
-      console.error('not-implemented', err);
-      res.status(500).send({ message: 'not-implemented', error: err });
+      console.error('not-implemented', err.code);
+      res.status(500).send({ message: 'not-implemented', error: err.code });
       return;
     }
-    console.log(results)
+
     if (results.length == 0) {
       res.status(401).send({ message: 'Invalid email or password' });
       return;
@@ -327,14 +266,12 @@ app.get('/api/Learns/recent', function(req, res) {
   var Email= req.query.Email;
   var num_words = parseInt(req.query.num_words);
 
-  console.log(Email, num_words)
-
   var sql = 'SELECT Word, LastLearnedTime FROM Learns LEFT JOIN Words ON Words.TestId = Learns.TestId AND Words.WordId = Learns.WordId WHERE Email = ? ORDER BY LastLearnedTime DESC LIMIT ?';
 
   connection.query(sql, [Email, num_words], function(err, results) {
     if (err) {
-      console.error('not-implemented', err);
-      res.status(500).send({ message: 'not-implemented', error: err });
+      console.error('not-implemented', err.code);
+      res.status(500).send({ message: 'not-implemented', error: err.code });
       return;
     }
     res.json(results);
@@ -349,14 +286,12 @@ app.get('/api/Learns/least', function(req, res) {
   var num_words = parseInt(req.query.num_words);
   var TestId = req.query.TestId;
 
-  console.log(Email, num_words)
-
   var sql = 'SELECT Word, Learns.TestId, PercentLearned FROM Learns LEFT JOIN Words ON Words.TestId = Learns.TestId AND Words.WordId = Learns.WordId WHERE Email = ? AND Learns.TestId = ? ORDER BY PercentLearned ASC LIMIT ?';
 
   connection.query(sql, [Email, TestId, num_words], function(err, results) {
     if (err) {
-      console.error('not-implemented', err);
-      res.status(500).send({ message: 'not-implemented', error: err });
+      console.error('not-implemented', err.code);
+      res.status(500).send({ message: 'not-implemented', error: err.code });
       return;
     }
     res.json(results);
@@ -370,14 +305,12 @@ app.get('/api/Learns/progress', function(req, res) {
   var Email= req.query.Email;
   var TestId= req.query.TestId;
 
-  console.log(Email, TestId)
-
   var sql = 'SELECT TestId, (COUNT(CASE WHEN PercentLearned > 80 THEN 1 END) / COUNT(*)) AS Progress FROM Learns WHERE Email = ? AND TestId = ? GROUP BY TestId';
 
   connection.query(sql, [Email, TestId], function(err, results) {
     if (err) {
-      console.error('not-implemented', err);
-      res.status(500).send({ message: 'not-implemented', error: err });
+      console.error('not-implemented', err.code);
+      res.status(500).send({ message: 'not-implemented', error: err.code });
       return;
     }
     res.json(results);
@@ -390,14 +323,12 @@ app.get('/api/Learns/progress', function(req, res) {
 app.get('/api/School/', function(req, res) {
   var SchoolId= req.query.SchoolId;
 
-  console.log(SchoolId)
-
   var sql = 'SELECT SchoolName, SchoolRank, Country, Size, Score FROM School WHERE SchoolId = ?';
 
   connection.query(sql, [SchoolId], function(err, results) {
     if (err) {
-      console.error('not-implemented', err);
-      res.status(500).send({ message: 'not-implemented', error: err });
+      console.error('not-implemented', err.code);
+      res.status(500).send({ message: 'not-implemented', error: err.code });
       return;
     }
     res.json(results);
@@ -411,14 +342,12 @@ app.get('/api/Schools/', function(req, res) {
   var s_SchoolId= req.query.s_SchoolId;
   var e_SchoolId= req.query.e_SchoolId;
 
-  console.log(s_SchoolId, e_SchoolId)
-
   var sql = 'SELECT SchoolId, SchoolName, SchoolRank, Country, Size, Score FROM School WHERE SchoolId BETWEEN ? AND ?';
 
   connection.query(sql, [s_SchoolId, e_SchoolId], function(err, results) {
     if (err) {
-      console.error('not-implemented', err);
-      res.status(500).send({ message: 'not-implemented', error: err });
+      console.error('not-implemented', err.code);
+      res.status(500).send({ message: 'not-implemented', error: err.code });
       return;
     }
     res.json(results);
@@ -431,14 +360,12 @@ app.get('/api/Schools/', function(req, res) {
 app.get('/api/Stat/popular-word', function(req, res) {
   var TestId = req.query.TestId;
 
-  console.log(TestId)
-
   var sql = 'SELECT Words.Word, Words.Stem, COUNT(Learns.Email) AS UserCount FROM Learns JOIN Words ON Learns.WordId = Words.WordId AND Learns.TestId = Words.TestId WHERE Learns.TestId = ? GROUP BY Words.WordId ORDER BY UserCount DESC LIMIT 10';
 
   connection.query(sql, [TestId], function(err, results) {
     if(err) {
-      console.error('not-implemented', err);
-      res.status(500).send({ message: 'not-implemented', error: err});
+      console.error('not-implemented', err.code);
+      res.status(500).send({ message: 'not-implemented', error: err.code});
       return;
     }
     res.json(results);
@@ -453,8 +380,8 @@ app.get('/api/Stat/num-users', function(req, res) {
 
   connection.query(sql, function(err, results) {
     if(err) {
-      console.error('not-implemented', err);
-      res.status(500).send({ message: 'not-implemented', error: err});
+      console.error('not-implemented', err.code);
+      res.status(500).send({ message: 'not-implemented', error: err.code});
       return;
     }
     res.json(results);
@@ -469,8 +396,8 @@ app.get('/api/Stat/popular-school', function(req, res) {
 
   connection.query(sql, function(err, results) {
     if(err) {
-      console.error('not-implemented', err);
-      res.status(500).send({ message: 'not-implemented', error: err});
+      console.error('not-implemented', err.code);
+      res.status(500).send({ message: 'not-implemented', error: err.code});
      return;
     }
     res.json(results);
@@ -485,14 +412,12 @@ app.get('/api/Words', function(req, res) {
   var s_WordId = req.query.s_WordId;
   var e_WordId = req.query.e_WordId;
 
-  console.log(TestId, s_WordId, e_WordId)
-
   var sql = 'SELECT WordId, TestId, Word, Stem FROM Words WHERE TestId = ? AND WordId BETWEEN ? AND ?';
 
   connection.query(sql, [TestId, s_WordId, e_WordId], function(err, results) {
     if(err) {
-      console.error('not-implemented', err);
-      res.status(500).send({ message: 'not-implemented', error: err});
+      console.error('not-implemented', err.code);
+      res.status(500).send({ message: 'not-implemented', error: err.code});
       return;
     }
     res.json(results);
@@ -507,14 +432,12 @@ app.get('/api/Study', function(req, res) {
   var Email = req.query.Email;
   var TestId = req.query.TestId;
 
-  console.log(Email, TestId)
-
   var sql = 'SELECT Words.WordId, Words.TestId, Words.Word, Learns.PercentLearned, Learns.LastLearnedTime FROM Learns JOIN Words ON Learns.WordId = Words.WordId AND Learns.TestId = Words.TestId WHERE Learns.Email = ? AND Learns.TestId = ? ORDER BY RAND() LIMIT 12';
 
   connection.query(sql, [Email, TestId], function(err, results) {
     if(err) {
-      console.error('not-implemented', err);
-      res.status(500).send({ message: 'not-implemented', error: err});
+      console.error('not-implemented', err.code);
+      res.status(500).send({ message: 'not-implemented', error: err.code});
       return;
     }
     res.json(results);
@@ -526,16 +449,14 @@ app.get('/api/Study', function(req, res) {
 app.post('/api/Learns/modify', function(req, res) {
   const { Email, TestId, WordId, PercentLearned, LastLearnedTime } = req.body;
 
-  console.log(Email, TestId, WordId, PercentLearned, LastLearnedTime);
-
   // Correct SQL UPDATE statement
   const update_sql = 'UPDATE Learns SET PercentLearned = ?, LastLearnedTime = ? WHERE Email = ? AND TestId = ? AND WordId = ?';
 
   // Correct order of parameters for the SQL query
   connection.query(update_sql, [PercentLearned, LastLearnedTime, Email, TestId, WordId], function(err, result) {
     if (err) {
-      console.error('Error updating record:', err);
-      res.status(500).send({ message: 'Error modifying record', error: err });
+      console.error('Error updating record:', err.code);
+      res.status(500).send({ message: 'Error modifying record', error: err.code });
       return;
     }
 
@@ -545,8 +466,8 @@ app.post('/api/Learns/modify', function(req, res) {
       const insert_sql = 'INSERT INTO Learns (PercentLearned, LastLearnedTime, Email, TestId, WordId) VALUES (?, ?, ?, ?, ?)';
       connection.query(insert_sql, [PercentLearned, LastLearnedTime, Email, TestId, WordId], function(err, result) {
         if (err) {
-          console.error('Error inserting record:', err);
-          res.status(500).send({ message: 'Error modifying record', error: err });
+          console.error('Error inserting record:', err.code);
+          res.status(500).send({ message: 'Error modifying record', error: err.code });
           return;
         }
 
@@ -562,6 +483,43 @@ app.post('/api/Learns/modify', function(req, res) {
   });
 });
 
-app.listen(80, function () {
-    console.log('Node app is running on port 80');
+let server;
+let startupFailed = false;
+
+function failStartup(stage, err) {
+  if (startupFailed) return;
+  startupFailed = true;
+  // Never print driver messages, SQL, connection options or bound values.
+  const code = err && typeof err.code === 'string' && /^[A-Z0-9_]{1,40}$/.test(err.code)
+    ? err.code : 'UNKNOWN';
+  console.error(`Backend startup failed (${stage}): ${code}`);
+  process.exitCode = 1;
+  connection.destroy();
+  if (server) server.close();
+}
+
+connection.on('error', (err) => failStartup('database connection', err));
+
+// With no queued queries, mysql2 propagates handshake failures to connect().
+// Run the existing SQL in order and stop at the first initialization failure.
+connection.connect((err) => {
+  if (err) return failStartup('database connection', err);
+
+  function initialize(index) {
+    if (startupFailed) return;
+    if (index < startupQueries.length) {
+      const step = startupQueries[index];
+      connection.query(step.sql, (err) => {
+        if (err) return failStartup(step.stage, err);
+        initialize(index + 1);
+      });
+      return;
+    }
+    server = app.listen(port, host, () => {
+      console.log(`Vocabuddy listening on ${host}:${port}`);
+    });
+    server.on('error', (err) => failStartup('HTTP listener', err));
+  }
+
+  initialize(0);
 });
